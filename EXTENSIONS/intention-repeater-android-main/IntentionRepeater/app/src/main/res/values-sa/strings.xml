@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">संकेत आवृत्तिकर्ता</string>
+    <string name="intention_repeater_header">संकेत आवृत्तिकर्ता</string>
+    <string name="by_anthro_teacher">अन्थ्रो शिक्षक द्वारा</string>
+    <string name="mult_0">बहु [%1$s]: 0</string>
+    <string name="_3_hz_classic">3 हर्ट्ज (पारंपरिक)</string>
+    <string name="_7_83_hz_schumann_resonance_optimal">7.83 हर्ट्ज शुमान अनुनाद (उत्तम)</string>
+    <string name="str_maximum_frequency">अधिकतम आवृत्ति</string>
+    <string name="power_boost_uses_sha512_encoding">शक्ति वर्धक - Sha512 कूटलेखन का प्रयोग</string>
+    <string name="keep_device_awake_3_hz_or_7_83_hz_only">उपकरण को जाग्रत रखें (केवल 3 हर्ट्ज या 7.83 हर्ट्ज)</string>
+    <string name="str_iterations">%1$s पुनरावृत्तियाँ (%2$s)</string>
+    <string name="str_stop">रोकें</string>
+    <string name="str_start">प्रारंभ</string>
+    <string name="str_load_file">फ़ाइल लोड करें</string>
+    <string name="str_version">संस्करण %1$s</string>
+    <string name="intention_repeater_settings">संकेत आवृत्तिकर्ता सेटिंग्स</string>
+    <string name="manage_notifications">सूचनाओं का प्रबंधन करें</string>
+    <string name="notifications_are">"सूचनाएँ "</string>
+    <string name="enabled">\u0020सक्रिय\u0020</string>
+    <string name="disabled">\u0020निष्क्रिय\u0020</string>
+    <string name="notification_on_message">जब चल रहा हो, तो सूचना प्रत्येक सेकंड में समय, वर्तमान आवृत्ति, और पुनरावृत्ति संख्या के साथ अद्यतन होती रहेगी।</string>
+    <string name="notification_off_message">आप सूचनाओं को सक्रिय कर सकते हैं ताकि चलने पर समय, वर्तमान आवृत्ति, और पुनरावृत्ति संख्या की सूचना प्राप्त हो सके।</string>
+    <string name="open_notes_for_intentions">संकेतों के लिए नोट्स खोलें</string>
+    <string name="website">वेबसाइट</string>
+    <string name="forum">मंच</string>
+    <string name="eula">नियम</string>
+    <string name="privacy">गोपनीयता</string>
+    <string name="back">वापस</string>
+    <string name="prevents_device_from_sleeping_during_3_hz_or_7_83_hz_operations_increases_battery_usage">3 हर्ट्ज या 7.83 हर्ट्ज के संचालन के दौरान उपकरण को स्लीप मोड में जाने से रोकता है। बैटरी का उपयोग बढ़ता है।</string>
+    <string name="settings">सेटिंग्स</string>
+    <string name="reset">रीसेट करें</string>
+    <string name="loading_intention">संकेत लोड हो रहा है...</string>
+    <string name="_0_iterations_0_hz">0 पुनरावृत्तियाँ (0 हर्ट्ज)</string>
+    <string name="no_text_editor_found_please_install_one_from_the_play_store">कोई पाठ संपादक नहीं मिला। कृपया एक प्ले स्टोर से स्थापित करें।</string>
+    <string name="formatted_0_iterations">० पुनरावृत्तयः (० Hz)</string>
+    <string name="enter_intentions">अभिप्राय लिखें</string>
+    <string name="update_language">भाषा अद्यतनयतु</string>
+    <string name="Hz">हर्ट्ज़</string>
+    <string name="kHz">किलोहर्ट्ज़</string>
+    <string name="MHz">मेगाहर्ट्ज़</string>
+    <string name="GHz">गीगाहर्ट्ज़</string>
+    <string name="THz">टेहर्ट्ज़</string>
+    <string name="PHz">पेटाहर्ट्ज़</string>
+    <string name="EHz">एक्साहर्ट्ज़</string>
+    <string name="Iterations">आवृत्तयः</string>
+    <string name="k">स</string> <!-- k for सहस्त्र -->
+    <string name="M">मि</string> <!-- M for मिलियन -->
+    <string name="B">बि</string> <!-- B for बिलियन -->
+    <string name="T">ट्रि</string> <!-- T for ट्रिलियन -->
+    <string name="q">क्वा</string> <!-- q for क्वाड्रिलियन -->
+    <string name="Q">क्विं</string> <!-- Q for क्विंटिलियन -->
+    <string name="s">ष</string> <!-- s for सेक्सटिलियन -->
+    <string name="S">सप्त</string> <!-- S for सेप्टिलियन -->
+
+    <string name="show_intentions_update">अभिप्रायस्सूचिका अद्यतनं प्रदर्शयति</string>
+
+    <string name="notifications_enabled">सूचनायाः सक्रियाः। यदा सञ्चालितं अस्ति, सूचनायाः प्रतिसेकण्डं व्यतीतकालं, वर्तमानफ्रिक्वेन्सी, च पुनरावृत्तिप्रमाणं च अद्यतनं भविष्यति।</string>
+    <string name="notifications_disabled">सूचनायाः निष्क्रियाः। यद्यपि सूचनायाः सक्रिययितुं शक्नुयात्, यदा सञ्चालितं अस्ति, व्यतीतकालं, वर्तमानफ्रिक्वेन्सी, च पुनरावृत्तिप्रमाणं दृश्यते।</string>
+    <string name="three_herz_classic">3 हर्ट्ज (क्लासिक)</string>
+    <string name="schumann_resonance">7.83 Hz शूमान गूंज</string>
+    <string name="prevents_device_sleeping">यंत्रं 3 हेर्त्झ अथवा 7.83 हेर्त्झ क्रियायाम् निद्रायाम् अकल्पयति। बैटरीवापरं वर्धयति।</string>
+    <string name="iterations_zero_hz">0 पुनरावृत्तयः (0 हेर्त्झ)</string>
+    <string name="duration">कालावधिः</string>
+    <string name="seconds">सेकण्डाः</string>
+    <string name="intention_repeater_finished">उद्देश्यपुनरावर्तकः समाप्तः</string>
+    <string name="finished">समाप्तम्: %1$s</string>
+
+    <string name="multiplier">गुणकः [%1$s]: 0</string>
+
+    <string name="multihasher_app">बहुहेशर अनुप्रयोग</string>
+    <string name="links">लिङ्काः...</string>
+
+
+    <string name="keep_device_awake">यन्त्रं जाग्रतं कुरुत (3 Hz, 7.83 Hz वा प्रति एकवारं केवलम्)</string>
+    <string name="once_per_hour">प्रतिघण्टायामेकं (उत्तमम्)</string>
+    <string name="record_voice_intention">स्वरस्य अभिप्रायं लिखतु</string>
+    <string name="record_voice_description">अयं भवतः स्वर्णं (यस्य अनुग्रहः च ऊर्जा च अस्ति) लेख्यते च तद् अभिप्रायस्य अन्तर्भावयति। लेखं उपरि अभिप्रायं पुनः प्रदर्शयितुं उत्तमः उपायः अस्ति। 5 मिंटपर्यन्तं लेख्यते।</string>
+    <string name="recording">लेख्यते...</string>
+    <string name="playing">विनिर्गच्छति...</string>
+    <string name="paused">विश्रामितम्</string>
+    <string name="tap_play_listen">श्रवणाय खेलं स्पर्शयतु</string>
+    <string name="tap_mic_record">लेखनाय माइक्रोफोन्म् स्पर्शयतु</string>
+    <string name="record">लेखयतु</string>
+    <string name="stop">निवारयतु</string>
+    <string name="play">विनिर्गच्छतु</string>
+    <string name="pause">विश्रामयतु</string>
+    <string name="stop_playback">विनिर्गच्छनं निवारयतु</string>
+    <string name="save">संरक्षितुम्</string>
+    <string name="cancel">निष्कासयतु</string>
+    <string name="mic_permission_required">अनुमतिः आवश्यकः</string>
+    <string name="mic_permission_description">अयं अनुप्रयोगः स्वर्णं लेखनाय माइक्रोफोनस्य प्रवेशं आवश्यकं। कृपया अनुप्रयोगस्य विन्यासे तं उपयोजयतु।</string>
+    <string name="open_settings">विन्यासानाम् उद्घाटनं</string>
+
+</resources>

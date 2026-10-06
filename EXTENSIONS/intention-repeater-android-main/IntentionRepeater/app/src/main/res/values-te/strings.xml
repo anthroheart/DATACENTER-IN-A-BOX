@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">ఉద్దేశం రిపీటర్</string>
+    <string name="intention_repeater_header">ఉద్దేశం రిపీటర్</string>
+    <string name="by_anthro_teacher">అంథ్రో టీచర్ ద్వారా</string>
+    <string name="mult_0">మల్టీ [%1$s]: 0</string>
+    <string name="_3_hz_classic">3 Hz (క్లాసిక్)</string>
+    <string name="_7_83_hz_schumann_resonance_optimal">7.83 Hz స్కూమాన్ రిజోనెన్స్ (ఉత్తమం)</string>
+    <string name="str_maximum_frequency">గరిష్ఠ ఫ్రీక్వెన్సీ</string>
+    <string name="power_boost_uses_sha512_encoding">పవర్ బూస్ట్ - Sha512 ఎన్కోడింగ్ ఉపయోగిస్తుంది</string>
+    <string name="keep_device_awake_3_hz_or_7_83_hz_only">పరికరాన్ని అప్రకోశం ఉంచండి (కేవలం 3 Hz లేదా 7.83 Hz)</string>
+    <string name="str_iterations">%1$s పునరావృతాలు (%2$s)</string>
+    <string name="str_stop">ఆపు</string>
+    <string name="str_start">ప్రారంభించు</string>
+    <string name="str_load_file">ఫైల్ లోడ్ చేయండి</string>
+    <string name="str_version">వెర్షన్ %1$s</string>
+    <string name="intention_repeater_settings">ఉద్దేశం రిపీటర్ అమరికలు</string>
+    <string name="manage_notifications">నోటిఫికేషన్లను నిర్వహించండి</string>
+    <string name="notifications_are">నోటిఫికేషన్లు</string>
+    <string name="enabled">\u0020సక్రియం చేయబడిన\u0020</string>
+    <string name="disabled">\u0020నిష్క్రియం చేయబడిన\u0020</string>
+    <string name="notification_on_message">నిర్వహణలో ఉన్నప్పుడు, నోటిఫికేషన్ ప్రతి సెకనుకు సమయం, ప్రస్తుత ఫ్రీక్వెన్సీ మరియు పునరావృతాల సంఖ్యతో నవీకరించబడుతుంది.</string>
+    <string name="notification_off_message">మీరు నోటిఫికేషన్లను సక్రియం చేయవచ్చు, నిర్వహణ సమయంలో సమయం, ప్రస్తుత ఫ్రీక్వెన్సీ మరియు పునరావృతాల సంఖ్యను చూడవచ్చు.</string>
+    <string name="open_notes_for_intentions">ఉద్దేశాల కోసం గమనికలను తెరవండి</string>
+    <string name="website">వెబ్సైట్</string>
+    <string name="forum">ఫోరం</string>
+    <string name="eula">EULA</string>
+    <string name="privacy">గోప్యత</string>
+    <string name="back">వెనక్కి</string>
+    <string name="prevents_device_from_sleeping_during_3_hz_or_7_83_hz_operations_increases_battery_usage">3 Hz లేదా 7.83 Hz ఆపరేషన్ల సమయంలో పరికరాన్ని నిద్రలోకి వెళ్లకుండా నివారిస్తుంది. బ్యాటరీ వినియోగాన్ని పెంచుతుంది.</string>
+    <string name="settings">అమరికలు</string>
+    <string name="reset">రీసెట్</string>
+    <string name="loading_intention">ఉద్దేశం లోడ్ అవుతోంది...</string>
+    <string name="_0_iterations_0_hz">0 పునరావృతాలు (0 Hz)</string>
+    <string name="no_text_editor_found_please_install_one_from_the_play_store">ఏదైనా టెక్స్ట్ ఎడిటర్ కనుగొనబడలేదు. దయచేసి ప్లే స్టోర్ నుండి ఒకటి ఇన్‌స్టాల్ చేయండి.</string>
+    <string name="formatted_0_iterations">0 పదులలూ (0 Hz)</string>
+    <string name="enter_intentions">లక్ష్యాలను నమోదు చేయండి</string>
+    <string name="update_language">భాషను నవీకరించండి</string>
+    <string name="Hz">హెర్జ్</string>
+    <string name="kHz">కిలోహెర్జ్</string>
+    <string name="MHz">మెగాహెర్జ్</string>
+    <string name="GHz">గిగాహెర్జ్</string>
+    <string name="THz">టెరాహెర్జ్</string>
+    <string name="PHz">పెటాహెర్జ్</string>
+    <string name="EHz">ఎక్సాహెర్జ్</string>
+    <string name="Iterations">పునరావృతాలు</string>
+    <string name="k">కె</string> <!-- k for వేల -->
+    <string name="M">మి</string> <!-- M for మిలియన్ -->
+    <string name="B">బి</string> <!-- B for బిలియన్ -->
+    <string name="T">టి</string> <!-- T for ట్రిలియన్ -->
+    <string name="q">క్వా</string> <!-- q for క్వాడ్రిలియన్ -->
+    <string name="Q">క్వి</string> <!-- Q for క్వింటిలియన్ -->
+    <string name="s">సె</string> <!-- s for సెక్స్టిలియన్ -->
+    <string name="S">సెప్</string> <!-- S for సెప్టిలియన్ -->
+
+    <string name="show_intentions_update">ఉద్దేశాల అప్డేట్‌ను చూపించడానికి</string>
+
+    <string name="notifications_enabled">సూచనలు సక్రియంగా ఉన్నాయి. ఇది పనిచేసేటప్పుడు, ప్రతి సెకనుకు సూచన సమయాన్ని, ప్రస్తుత ఫ్రీక్వెన్సీని మరియు పునరావృతాల సంఖ్యను నవీకరిస్తుంది.</string>
+    <string name="notifications_disabled">సూచనలు నిలిపివేయబడ్డాయి. మీరు సూచనలను చల్లారు మరియు ఇది పనిచేసేటప్పుడు సమయాన్ని, ప్రస్తుత ఫ్రీక్వెన్సీని మరియు పునరావృతాల సంఖ్యను చూడవచ్చు.</string>
+    <string name="three_herz_classic">3 Hz (క్లాసిక్)</string>
+    <string name="schumann_resonance">7.83 హెర్డ్జ్ షుమాన్ రెసొనన్స్</string>
+    <string name="prevents_device_sleeping">3 హర్ట్జ్ లేదా 7.83 హర్ట్జ్ ఆపరేషన్ల సమయంలో పరికరాన్ని నిద్రపోవడానికి అడ్డుకుంటుంది. బ్యాటరీ వినియోగాన్ని పెంచుతుంది.</string>
+    <string name="iterations_zero_hz">0 పునరావృతాలు (0 హర్ట్జ్)</string>
+    <string name="duration">కాలం</string>
+    <string name="seconds">సెకండ్లు</string>
+    <string name="intention_repeater_finished">ఉద్దేశ్య పునరావర్తకము ముగిసింది</string>
+    <string name="finished">ముగిసింది: %1$s</string>
+
+    <string name="multiplier">గుణక [%1$s]: 0</string>
+
+    <string name="multihasher_app">మల్టిహ్యాషర్ యాప్</string>
+    <string name="links">లింక్స్...</string>
+
+
+    <string name="keep_device_awake">పరికరాన్ని మేల醒ంగా ఉంచండి (3 Hz, 7.83 Hz లేదా గంటకు ఒక్కసారిగా మాత్రమే)</string>
+    <string name="once_per_hour">ఒక గంటకు ఒక్కసారిగా (ఆప్టిమల్)</string>
+    <string name="record_voice_intention">కథనం ఉద్దేశ్యాన్ని నమోదు చేయండి</string>
+    <string name="record_voice_description">ఇది మీ స్వరాన్ని (ఇది భావం మరియు శక్తిని కలిగి ఉంది) నమోదు చేస్తుంది మరియు దీన్ని ఉద్దేశ్యంలో చేర్చుతుంది. ఇది మీ ఉద్దేశ్యాన్ని పునరావృతించడానికి వాస్తవంగా మెరుగైన పద్ధతి అందిస్తుంది. 5 నిమిషాల వరకు నమోదు చేస్తుంది.</string>
+    <string name="recording">నమోదు చేస్తున్నది...</string>
+    <string name="playing">ప్రదర్శన చేస్తోంది...</string>
+    <string name="paused">నిష్క్రియ</string>
+    <string name="tap_play_listen">వినడానికి ప్లే నొక్కండి</string>
+    <string name="tap_mic_record">నమోదు చేయడానికి మైక్రోఫోన్ నొక్కండి</string>
+    <string name="record">నమోదు చేయండి</string>
+    <string name="stop">ఆపండి</string>
+    <string name="play">చరిత్ర</string>
+    <string name="pause">నిష్క్రియ</string>
+    <string name="stop_playback">ప్లేబ్యాక్ ఆపండి</string>
+    <string name="save">కాపీ చేయండి</string>
+    <string name="cancel">రద్దు చేయండి</string>
+    <string name="mic_permission_required">అనుమతి అవసరం</string>
+    <string name="mic_permission_description">ఈ అనువర్తనం మీ స్వరం నమోదు చేయడానికి మైక్రోఫోన్ యాక్సెస్ అవసరం. దయచేసి అప్లికేషన్ సెట్టింగ్స్‌లో ఇది చేర్చండి.</string>
+    <string name="open_settings">సెట్టింగ్స్‌ని తెరవండి</string>
+
+</resources>

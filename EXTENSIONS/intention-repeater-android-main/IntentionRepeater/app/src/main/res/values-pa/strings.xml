@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">ਇਰਾਦੇ ਦੀ ਦੁਹਰਾਈ</string>
+    <string name="intention_repeater_header">ਇਰਾਦੇ ਦੀ ਦੁਹਰਾਈ</string>
+    <string name="by_anthro_teacher">Anthro Teacher ਦੇ ਦੁਆਰਾ</string>
+    <string name="mult_0">ਮਲਟ [%1$s]: 0</string>
+    <string name="_3_hz_classic">3 Hz (ਕਲਾਸਿਕ)</string>
+    <string name="_7_83_hz_schumann_resonance_optimal">7.83 Hz ਸ਼ੂਮਾਨ ਗੂੰਜ (ਸਭ ਤੋਂ ਵਧੀਆ)</string>
+    <string name="str_maximum_frequency">ਅਧਿਕਤਮ ਫ੍ਰਿਕਵੈਂਸੀ</string>
+    <string name="power_boost_uses_sha512_encoding">ਪਾਵਰ ਬੂਸਟ - Sha512 ਐਨਕੋਡਿੰਗ ਦੀ ਵਰਤੋਂ ਕਰਦਾ ਹੈ</string>
+    <string name="keep_device_awake_3_hz_or_7_83_hz_only">ਜੰਤਰ ਨੂੰ ਜਾਗਦਾ ਰੱਖੋ (ਕੇਵਲ 3 Hz ਜਾਂ 7.83 Hz)</string>
+    <string name="str_iterations">%1$s ਦੁਹਰਾਈਆਂ (%2$s)</string>
+    <string name="str_stop">ਰੋਕੋ</string>
+    <string name="str_start">ਸ਼ੁਰੂ ਕਰੋ</string>
+    <string name="str_load_file">ਫਾਈਲ ਲੋਡ ਕਰੋ</string>
+    <string name="str_version">ਵਰਜਨ %1$s</string>
+    <string name="intention_repeater_settings">ਇਰਾਦੇ ਦੀ ਦੁਹਰਾਈ ਸੈਟਿੰਗਾਂ</string>
+    <string name="manage_notifications">ਸੂਚਨਾਵਾਂ ਪ੍ਰਬੰਧਿਤ ਕਰੋ</string>
+    <string name="notifications_are">\u0020ਸੂਚਨਾਵਾਂ\u0020ਹਨ\u0020</string>
+    <string name="enabled">\u0020ਸਕਿਰਿਆ\u0020ਹਨ\u0020</string>
+    <string name="disabled">\u0020ਗੈਰ-ਸਕਿਰਿਆ\u0020ਹਨ\u0020</string>
+    <string name="notification_on_message">. ਚਲਾਉਂਦੇ ਸਮੇਂ, ਸੂਚਨਾ ਹਰ ਸਕਿੰਟ ਵਿੱਚ ਸਮਾਂ, ਮੌਜੂਦਾ ਫ੍ਰਿਕਵੈਂਸੀ, ਅਤੇ ਦੁਹਰਾਈਆਂ ਦੀ ਗਿਣਤੀ ਅਪਡੇਟ ਕਰੇਗੀ।</string>
+    <string name="notification_off_message">. ਤੁਸੀਂ ਸੂਚਨਾਵਾਂ ਨੂੰ ਸਕਿਰਿਆ ਕਰ ਸਕਦੇ ਹੋ ਤਾਂ ਜੋ ਚਲਾਉਂਦੇ ਸਮੇਂ ਵਿੱਚ ਸਮਾਂ, ਮੌਜੂਦਾ ਫ੍ਰਿਕਵੈਂਸੀ, ਅਤੇ ਦੁਹਰਾਈਆਂ ਦੀ ਗਿਣਤੀ ਨੂੰ ਸੂਚਨਾ ਵਜੋਂ ਵੇਖ ਸਕੋ।</string>
+    <string name="open_notes_for_intentions">ਇਰਾਦਿਆਂ ਲਈ ਨੋਟਸ ਖੋਲੋ</string>
+    <string name="website">ਵੈਬਸਾਈਟ</string>
+    <string name="forum">ਫੋਰਮ</string>
+    <string name="eula">EULA</string>
+    <string name="privacy">ਗੋਪਨੀਯਤਾ</string>
+    <string name="back">ਵਾਪਸ</string>
+    <string name="prevents_device_from_sleeping_during_3_hz_or_7_83_hz_operations_increases_battery_usage">3 Hz ਜਾਂ 7.83 Hz ਦੇ ਕਾਰਜ ਦੌਰਾਨ ਜੰਤਰ ਨੂੰ ਸੁੱਤਣ ਤੋਂ ਰੋਕਦਾ ਹੈ। ਬੈਟਰੀ ਦੀ ਵਰਤੋਂ ਵਧਾਉਂਦਾ ਹੈ।</string>
+    <string name="settings">ਸੈਟਿੰਗਾਂ</string>
+    <string name="reset">ਰੀਸੈਟ</string>
+    <string name="loading_intention">ਇਰਾਦਾ ਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ...</string>
+    <string name="_0_iterations_0_hz">0 ਦੁਹਰਾਈਆਂ (0 Hz)</string>
+    <string name="no_text_editor_found_please_install_one_from_the_play_store">ਕੋਈ ਟੈਕਸਟ ਸੰਪਾਦਕ ਨਹੀਂ ਮਿਲਿਆ। ਕਿਰਪਾ ਕਰਕੇ ਪਲੇ ਸਟੋਰ ਤੋਂ ਇਕ ਇੰਸਟਾਲ ਕਰੋ।</string>
+    <string name="formatted_0_iterations">0 ਦੁਹਰਾਈਆਂ (0 Hz)</string>
+    <string name="enter_intentions">ਇਰਾਦੇ ਦਿਓ</string>
+    <string name="update_language">ਭਾਸ਼ਾ ਨੂੰ ਅੱਪਡੇਟ ਕਰੋ</string>
+    <string name="Hz">ਹਰਟਜ</string>
+    <string name="kHz">ਕਿਲੋਹਰਟਜ</string>
+    <string name="MHz">ਮੇਗਾਹਰਟਜ</string>
+    <string name="GHz">ਗਿਗਾਹਰਟਜ</string>
+    <string name="THz">ਟੈਰਾਹਰਟਜ</string>
+    <string name="PHz">ਪੈਟਾਹਰਟਜ</string>
+    <string name="EHz">ਐਕਸਾਹਰਟਜ</string>
+    <string name="Iterations">ਦੁਹਰਾਵਾਂ</string>
+    <string name="k">ਹ</string> <!-- k for ਹਜ਼ਾਰ -->
+    <string name="M">ਮਿ</string> <!-- M for ਮਿਲੀਅਨ -->
+    <string name="B">ਬਿ</string> <!-- B for ਬਿਲੀਅਨ -->
+    <string name="T">ਟਿ</string> <!-- T for ਟ੍ਰਿਲੀਅਨ -->
+    <string name="q">ਕ੍ਵ</string> <!-- q for ਕਵਾਡ੍ਰੀਲਿਅਨ -->
+    <string name="Q">ਕ੍ਵਿ</string> <!-- Q for ਕਵਿੰਟਿਲਿਅਨ -->
+    <string name="s">ਸੇ</string> <!-- s for ਸੈਕਸਟਿਲਿਅਨ -->
+    <string name="S">ਸੇਪ੍ਟ</string> <!-- S for ਸੇਪਟਿਲਿਅਨ -->
+
+    <string name="show_intentions_update">ਇਰਾਦਿਆਂ ਨੂੰ ਅਪਡੇਟ ਕਰਨ ਲਈ</string>
+
+    <string name="notifications_enabled">ਸੂਚਨਾਵਾਂ ਸੰਚਾਲਿਤ ਹਨ। ਚੱਲਦੇ ਸਮੇਂ ਵਿੱਚ, ਸੂਚਨਾ ਹਰ ਸਕਿੰਟ ਵਿੱਚ ਅਗੇਤ ਸਮਾਂ, ਮੌਜੂਦਾ ਫ੍ਰੀਕਵੰਸੀ ਅਤੇ ਅਧਿਆਇ ਦੀ ਗਿਣਤੀ ਨੂੰ ਅਪਡੇਟ ਕਰੇਗੀ।</string>
+    <string name="notifications_disabled">ਸੂਚਨਾਵਾਂ ਬੰਦ ਹਨ। ਤੁਸੀਂ ਸੂਚਨਾਵਾਂ ਨੂੰ ਚਾਲੂ ਕਰ ਸਕਦੇ ਹੋ ਤਾਂ ਜੋ ਚੱਲਦੇ ਸਮੇਂ ਵਿੱਚ ਅਗੇਤ ਸਮਾਂ, ਮੌਜੂਦਾ ਫ੍ਰੀਕਵੰਸੀ, ਅਤੇ ਅਧਿਆਇ ਦੀ ਗਿਣਤੀ ਦੇਖ ਸਕੋ।</string>
+    <string name="three_herz_classic">3 Hz (ਕਲਾਸਿਕ)</string>
+    <string name="schumann_resonance">7.83 ਹਰਟਜ਼ ਸ਼ੂਮਾਨ ਗੂੰਜ</string>
+    <string name="prevents_device_sleeping">3 ਹਰਟਜ਼ ਜਾਂ 7.83 ਹਰਟਜ਼ ਕਾਰਜਾਂ ਦੌਰਾਨ ਉਪਕਰਣ ਨੂੰ ਸੌਣ ਤੋਂ ਰੋਕਦਾ ਹੈ। ਬੈਟਰੀ ਦੀ ਵਰਤੋਂ ਵਧਾਈ ਜਾਂਦੀ ਹੈ।</string>
+    <string name="iterations_zero_hz">0 ਦੌਰਾਨ (0 ਹਰਟਜ਼)</string>
+    <string name="duration">ਅਵਧੀ</string>
+    <string name="seconds">ਸੈਕਿੰਡ</string>
+    <string name="intention_repeater_finished">ਉਦੇਸ਼ ਦੁਹਰਾਉਣ ਵਾਲਾ ਸਮਾਪਤ ਹੋ ਗਿਆ</string>
+    <string name="finished">ਸਮਾਪਤ: %1$s</string>
+
+    <string name="multiplier">ਗੁਣਕ [%1$s]: 0</string>
+
+    <string name="multihasher_app">ਮਲਟੀਹੈਸ਼ਰ ਐਪ</string>
+    <string name="links">ਲਿੰਕ...</string>
+
+
+    <string name="keep_device_awake">ਡਿਵਾਈਸ ਨੂੰ ਜਾਗਰੂਕ ਰੱਖੋ (3 Hz, 7.83 Hz ਜਾਂ ਘੰਟੇ ਵਿੱਚ ਇੱਕ ਵਾਰ ਹੀ)</string>
+    <string name="once_per_hour">ਘੰਟੇ ਵਿੱਚ ਇੱਕ ਵਾਰ (ਸਰਵੋਤਮ)</string>
+    <string name="record_voice_intention">ਆਵਾਜ਼ ਦੀ ਨੀਅਤ ਰਿਕਾਰਡ ਕਰੋ</string>
+    <string name="record_voice_description">ਇਹ ਤੁਹਾਡੀ ਆਵਾਜ਼ ਨੂੰ ਰਿਕਾਰਡ ਕਰਦਾ ਹੈ (ਜਿਸ ਦੇ ਪਿੱਛੇ ਭਾਵਨਾਵਾਂ ਅਤੇ ਊਰਜਾ ਹੁੰਦੀ ਹੈ) ਅਤੇ ਇਸ ਨੂੰ ਨੀਅਤ ਵਿੱਚ ਸ਼ਾਮਲ ਕਰਦਾ ਹੈ। ਇਹ ਪਾਠ ਦੇ ਮੁਕਾਬਲੇ ਤੁਹਾਡੀ ਨੀਅਤ ਨੂੰ ਦੁਹਰਾਉਣ ਦਾ ਇਕ ਵਧੀਆ ਤਰੀਕਾ ਦਿੰਦਾ ਹੈ। 5 ਮਿੰਟ ਤੱਕ ਰਿਕਾਰਡ ਕਰਦਾ ਹੈ।</string>
+    <string name="recording">ਰਿਕਾਰਡ ਕਰ ਰਿਹਾ ਹੈ...</string>
+    <string name="playing">ਚਲਾ ਰਿਹਾ ਹੈ...</string>
+    <string name="paused">ਰੋਕਿਆ ਹੋਇਆ ਹੈ</string>
+    <string name="tap_play_listen">ਸੁਣਨ ਲਈ ਪਲੇ ਨੂੰ ਟੈਪ ਕਰੋ</string>
+    <string name="tap_mic_record">ਰਿਕਾਰਡ ਕਰਨ ਲਈ ਮਾਈਕ ਨੂੰ ਟੈਪ ਕਰੋ</string>
+    <string name="record">ਰਿਕਾਰਡ ਕਰੋ</string>
+    <string name="stop">ਰੋਕੋ</string>
+    <string name="play">ਪਲੇ ਕਰੋ</string>
+    <string name="pause">ਰੋਕੋ</string>
+    <string name="stop_playback">ਪਲੇਬੈਕ ਰੋਕੋ</string>
+    <string name="save">ਸੰਭਾਲੋ</string>
+    <string name="cancel">ਰੱਦ ਕਰੋ</string>
+    <string name="mic_permission_required">ਆਗਿਆ ਚਾਹੀਦੀ ਹੈ</string>
+    <string name="mic_permission_description">ਇਹ ਐਪ ਤੁਹਾਡੀ ਆਵਾਜ਼ ਨੂੰ ਰਿਕਾਰਡ ਕਰਨ ਲਈ ਮਾਈਕਰੋਫੋਨ ਤੱਕ ਪਹੁੰਚ ਦੀ ਲੋੜ ਹੈ। ਕਿਰਪਾ ਕਰਕੇ ਐਪ ਸੈਟਿੰਗਜ਼ ਵਿੱਚ ਇਸਨੂੰ ਸਮਰੱਥ ਕਰੋ।</string>
+    <string name="open_settings">ਸੈਟਿੰਗਾਂ ਖੋਲ੍ਹੋ</string>
+
+</resources>

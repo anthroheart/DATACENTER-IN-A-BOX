@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">उद्देश पुनरावृत्ती करणारा</string>
+    <string name="intention_repeater_header">उद्देश पुनरावृत्ती करणारा</string>
+    <string name="by_anthro_teacher">Anthro Teacher द्वारा</string>
+    <string name="mult_0">मल्ट [%1$s]: 0</string>
+    <string name="_3_hz_classic">3 Hz (क्लासिक)</string>
+    <string name="_7_83_hz_schumann_resonance_optimal">7.83 Hz शुमान अनुनाद (सर्वोत्तम)</string>
+    <string name="str_maximum_frequency">कमाल वारंवारता</string>
+    <string name="power_boost_uses_sha512_encoding">पॉवर बूस्ट - Sha512 एन्कोडिंग वापरते</string>
+    <string name="keep_device_awake_3_hz_or_7_83_hz_only">डिव्हाइसला जागृत ठेवा (फक्त 3 Hz किंवा 7.83 Hz)</string>
+    <string name="str_iterations">%1$s पुनरावृत्ती (%2$s)</string>
+    <string name="str_stop">थांबवा</string>
+    <string name="str_start">सुरु करा</string>
+    <string name="str_load_file">फाईल लोड करा</string>
+    <string name="str_version">आवृत्ती %1$s</string>
+    <string name="intention_repeater_settings">उद्देश पुनरावृत्ती सेटिंग्ज</string>
+    <string name="manage_notifications">सूचना व्यवस्थापित करा</string>
+    <string name="notifications_are">\u0020सूचना\u0020आहेत\u0020</string>
+    <string name="enabled">\u0020सक्षम\u0020आहेत\u0020</string>
+    <string name="disabled">\u0020निष्क्रिय\u0020आहेत\u0020</string>
+    <string name="notification_on_message">. चालवताना, सूचना दर सेकंदाला वेळ, वर्तमान वारंवारता, आणि पुनरावृत्ती संख्या अद्ययावत होईल.</string>
+    <string name="notification_off_message">. तुम्ही सूचना सक्षम करू शकता जेणेकरून चालवताना सूचना स्वरूपात वेळ, वर्तमान वारंवारता, आणि पुनरावृत्ती संख्या पाहू शकाल.</string>
+    <string name="open_notes_for_intentions">उद्देशांसाठी नोट्स उघडा</string>
+    <string name="website">वेबसाइट</string>
+    <string name="forum">फोरम</string>
+    <string name="eula">EULA</string>
+    <string name="privacy">गोपनीयता</string>
+    <string name="back">मागे</string>
+    <string name="prevents_device_from_sleeping_during_3_hz_or_7_83_hz_operations_increases_battery_usage">3 Hz किंवा 7.83 Hz ऑपरेशन्स दरम्यान डिव्हाइसला झोप येऊ देत नाही. बॅटरी वापर वाढतो.</string>
+    <string name="settings">सेटिंग्ज</string>
+    <string name="reset">रीसेट</string>
+    <string name="loading_intention">उद्देश लोड करत आहे...</string>
+    <string name="_0_iterations_0_hz">0 पुनरावृत्ती (0 Hz)</string>
+    <string name="no_text_editor_found_please_install_one_from_the_play_store">कोणताही मजकूर संपादक आढळला नाही. कृपया एक प्ले स्टोअरमधून स्थापित करा.</string>
+    <string name="formatted_0_iterations">0 पुनरावृत्ती (0 Hz)</string>
+    <string name="enter_intentions">उद्देश द्या</string>
+    <string name="update_language">भाषा अपडेट करा</string>
+    <string name="Hz">हर्ट्झ</string>
+    <string name="kHz">किलोहर्ट्झ</string>
+    <string name="MHz">मेगाहर्ट्झ</string>
+    <string name="GHz">गीगाहर्ट्झ</string>
+    <string name="THz">टेहर्ट्झ</string>
+    <string name="PHz">पेटाहर्ट्झ</string>
+    <string name="EHz">एक्साहर्ट्झ</string>
+    <string name="Iterations">आवर्तनं</string>
+    <string name="k">ह</string> <!-- k for हजार -->
+    <string name="M">मि</string> <!-- M for मिलियन -->
+    <string name="B">बि</string> <!-- B for बिलियन -->
+    <string name="T">ट्रि</string> <!-- T for ट्रिलियन -->
+    <string name="q">क्वा</string> <!-- q for क्वाड्रिलियन -->
+    <string name="Q">क्विं</string> <!-- Q for क्विंटिलियन -->
+    <string name="s">से</string> <!-- s for सेक्सटिलियन -->
+    <string name="S">सेप</string> <!-- S for सेप्टिलियन -->
+
+    <string name="show_intentions_update">हे दाखवण्यासाठी उद्दिष्टे अद्यतनित करा</string>
+
+    <string name="notifications_enabled">सूचना \u0020सक्षम\u0020 आहेत. चालू असताना, सूचना प्रत्येक सेकंदाला कालावधी, वर्तमान वारंवारता, आणि पुनरावृत्तींची संख्या दर्शवून अद्ययावत केली जाईल.</string>
+    <string name="notifications_disabled">सूचना \u0020असक्षम\u0020 आहेत. सूचना सक्षम करून, चालू असताना कालावधी, वर्तमान वारंवारता, आणि पुनरावृत्तींची संख्या पाहू शकता.</string>
+    <string name="three_herz_classic">3 हर्ट्ज (क्लासिक)</string>
+    <string name="schumann_resonance">7.83 Hz शुमान गूंज</string>
+    <string name="prevents_device_sleeping">3 हर्ट्ज किंवा 7.83 हर्ट्ज ऑपरेशन्स दरम्यान डिव्हाइसला झोपण्यापासून थांबवते. बॅटरी वापर वाढवते.</string>
+    <string name="iterations_zero_hz">0 पुनरावृत्ती (0 हर्ट्ज)</string>
+    <string name="duration">कालावधी</string>
+    <string name="seconds">सेकंद</string>
+    <string name="intention_repeater_finished">उद्देश पुनरावृत्तक पूर्ण</string>
+    <string name="finished">पूर्ण: %1$s</string>
+
+    <string name="multiplier">गुणक [%1$s]: 0</string>
+
+    <string name="multihasher_app">मल्टिहॅशर अॅप</string>
+    <string name="links">लिंक्स...</string>
+
+
+    <string name="keep_device_awake">डिव्हाइस जागृत ठेवा (3 Hz, 7.83 Hz किंवा तासात एकदा फक्त)</string>
+    <string name="once_per_hour">तासात एकदा (सर्वोत्तम)</string>
+    <string name="record_voice_intention">आवाजाचा उद्देश रेकॉर्ड करा</string>
+    <string name="record_voice_description">हे तुमचा आवाज (जो भावना आणि उर्जेसह आहे) रेकॉर्ड करते आणि उद्देशात समाविष्ट करते. हे तुमच्या उद्देशाला पुन्हा सांगण्यासाठी मजकूरापेक्षा चांगली पद्धत प्रदान करते. 5 मिनिटांपर्यंत रेकॉर्ड करते.</string>
+    <string name="recording">रेकॉर्डिंग...</string>
+    <string name="playing">प्ले करत आहे...</string>
+    <string name="paused">थांबलेले</string>
+    <string name="tap_play_listen">ऐकण्यासाठी प्ले टॅप करा</string>
+    <string name="tap_mic_record">रेकॉर्ड करण्यासाठी माइक टॅप करा</string>
+    <string name="record">रेकॉर्ड करा</string>
+    <string name="stop">थांबवा</string>
+    <string name="play">प्ले करा</string>
+    <string name="pause">विराम</string>
+    <string name="stop_playback">प्लेबॅक थांबवा</string>
+    <string name="save">जतन करा</string>
+    <string name="cancel">रद्द करा</string>
+    <string name="mic_permission_required">परवानगी आवश्यक</string>
+    <string name="mic_permission_description">तुमचा आवाज रेकॉर्ड करण्यासाठी या अ‍ॅपला मायक्रोफोनची परवानगी आवश्यक आहे. कृपया ते अ‍ॅप सेटिंग्जमध्ये सक्षम करा.</string>
+    <string name="open_settings">सेटिंग्ज उघडा</string>
+
+</resources>

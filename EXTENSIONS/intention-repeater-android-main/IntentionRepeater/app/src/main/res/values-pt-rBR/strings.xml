@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">Repetidor de Intenção</string>
+    <string name="intention_repeater_header">Repetidor de Intenção</string>
+    <string name="by_anthro_teacher">por Anthro Teacher</string>
+    <string name="mult_0">Mult [%1$s]: 0</string>
+    <string name="_3_hz_classic">3 Hz (Clássico)</string>
+    <string name="_7_83_hz_schumann_resonance_optimal">7.83 Hz Ressonância de Schumann (Ótimo)</string>
+    <string name="str_maximum_frequency">Frequência Máxima</string>
+    <string name="power_boost_uses_sha512_encoding">Aumento de Potência - Usa Codificação Sha512</string>
+    <string name="keep_device_awake_3_hz_or_7_83_hz_only">Manter Dispositivo Desperto (Apenas 3 Hz ou 7.83 Hz)</string>
+    <string name="str_iterations">%1$s Iterações (%2$s)</string>
+    <string name="str_stop">PARAR</string>
+    <string name="str_start">INICIAR</string>
+    <string name="str_load_file">CARREGAR ARQUIVO</string>
+    <string name="str_version">Versão %1$s</string>
+    <string name="intention_repeater_settings">Configurações do Repetidor de Intenção</string>
+    <string name="manage_notifications">Gerenciar Notificações</string>
+    <string name="notifications_are">As notificações estão</string>
+    <string name="enabled">\u0020ATIVADAS\u0020</string>
+    <string name="disabled">\u0020DESATIVADAS\u0020</string>
+    <string name="notification_on_message">Quando em execução, a notificação será atualizada a cada segundo com o tempo decorrido, a frequência atual e o número de iterações.</string>
+    <string name="notification_off_message">Você pode ativar as notificações para ver o tempo decorrido, a frequência atual e o número de iterações enquanto executa como notificação.</string>
+    <string name="open_notes_for_intentions">Abrir Notas para Intenções</string>
+    <string name="website">Site</string>
+    <string name="forum">Fórum</string>
+    <string name="eula">Termos</string>
+    <string name="privacy">Privacidade</string>
+    <string name="back">Voltar</string>
+    <string name="prevents_device_from_sleeping_during_3_hz_or_7_83_hz_operations_increases_battery_usage">Impede que o dispositivo entre no modo de suspensão durante operações de 3 Hz ou 7.83 Hz. Aumenta o consumo de bateria.</string>
+    <string name="settings">Configurações</string>
+    <string name="reset">REDEFINIR</string>
+    <string name="loading_intention">Carregando Intenção...</string>
+    <string name="_0_iterations_0_hz">0 Iterações (0 Hz)</string>
+    <string name="no_text_editor_found_please_install_one_from_the_play_store">Nenhum editor de texto encontrado. Instale um da Play Store.</string>
+    <string name="formatted_0_iterations">0 Iterações (0 Hz)</string>
+    <string name="enter_intentions">Insira as intenções</string>
+    <string name="update_language">Atualizar idioma</string>
+    <string name="Hz">Hz</string>
+    <string name="kHz">kHz</string>
+    <string name="MHz">MHz</string>
+    <string name="GHz">GHz</string>
+    <string name="THz">THz</string>
+    <string name="PHz">PHz</string>
+    <string name="EHz">EHz</string>
+    <string name="Iterations">Iterações</string>
+    <string name="k">mil</string> <!-- k for mil -->
+    <string name="M">M</string> <!-- M for milhão -->
+    <string name="B">Bi</string> <!-- B for bilhão -->
+    <string name="T">T</string> <!-- T for trilhão -->
+    <string name="q">Q</string> <!-- q for quadrilhão -->
+    <string name="Q">Qt</string> <!-- Q for quintilhão -->
+    <string name="s">Sx</string> <!-- s for sextilhão -->
+    <string name="S">Sp</string> <!-- S for septilhão -->
+
+    <string name="show_intentions_update">Para mostrar a atualização de intenções</string>
+
+    <string name="notifications_enabled">Notificações estão \u0020ATIVADAS\u0020. Durante a execução, a notificação será atualizada a cada segundo com o tempo decorrido, a frequência atual e o número de iterações.</string>
+    <string name="notifications_disabled">Notificações estão \u0020DESATIVADAS\u0020. Você pode ativar notificações para ver o tempo decorrido, a frequência atual e o número de iterações quando estiver executando como uma notificação.</string>
+    <string name="three_herz_classic">3 Hz (Clássico)</string>
+    <string name="schumann_resonance">7,83 Hz Ressonância de Schumann</string>
+    <string name="prevents_device_sleeping">Impede que o dispositivo entre em modo de espera durante operações de 3 Hz ou 7.83 Hz. Aumenta o uso da bateria.</string>
+    <string name="iterations_zero_hz">0 Iterações (0 Hz)</string>
+    <string name="duration">Duração</string>
+    <string name="seconds">Segundos</string>
+    <string name="intention_repeater_finished">Repetidor de Intenções Concluído</string>
+    <string name="finished">Concluído: %1$s</string>
+
+    <string name="multiplier">Multiplicador [%1$s]: 0</string>
+
+    <string name="multihasher_app">Aplicativo Multihasher</string>
+    <string name="links">Links...</string>
+
+
+    <string name="keep_device_awake">Mantenha o dispositivo acordado (3 Hz, 7,83 Hz ou apenas uma vez por hora)</string>
+    <string name="once_per_hour">Uma vez por hora (Otimizado)</string>
+    <string name="record_voice_intention">Gravar intenção de voz</string>
+    <string name="record_voice_description">Isso grava sua voz (que tem emoção e energia por trás) e a insere na intenção. Isso fornece uma maneira melhor de repetir sua intenção do que o texto. Grava até 5 minutos.</string>
+    <string name="recording">Gravando...</string>
+    <string name="playing">Reproduzindo...</string>
+    <string name="paused">Pausado</string>
+    <string name="tap_play_listen">Toque em Reproduzir para ouvir</string>
+    <string name="tap_mic_record">Toque em Microfone para gravar</string>
+    <string name="record">Gravar</string>
+    <string name="stop">Parar</string>
+    <string name="play">Tocar</string>
+    <string name="pause">Pausar</string>
+    <string name="stop_playback">Parar reprodução</string>
+    <string name="save">Salvar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="mic_permission_required">Permissão Necessária</string>
+    <string name="mic_permission_description">Este aplicativo precisa de acesso ao microfone para gravar sua voz. Por favor, habilite nas configurações do aplicativo.</string>
+    <string name="open_settings">Abrir Configurações</string>
+
+</resources>

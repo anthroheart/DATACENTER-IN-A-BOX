@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">Pengulang Niat</string>
+    <string name="intention_repeater_header">Pengulang Niat</string>
+    <string name="by_anthro_teacher">oleh Anthro Teacher</string>
+    <string name="mult_0">Mult [%1$s]: 0</string>
+    <string name="_3_hz_classic">3 Hz (Klasik)</string>
+    <string name="_7_83_hz_schumann_resonance_optimal">7,83 Hz Resonansi Schumann (Optimal)</string>
+    <string name="str_maximum_frequency">Frekuensi Maksimal</string>
+    <string name="power_boost_uses_sha512_encoding">Peningkatan Daya - Menggunakan Pengkodean Sha512</string>
+    <string name="keep_device_awake_3_hz_or_7_83_hz_only">Jaga Perangkat Tetap Menyala (hanya 3 Hz atau 7,83 Hz)</string>
+    <string name="str_iterations">%1$s Iterasi (%2$s)</string>
+    <string name="str_stop">BERHENTI</string>
+    <string name="str_start">MULAI</string>
+    <string name="str_load_file">MUAT FILE</string>
+    <string name="str_version">Versi %1$s</string>
+    <string name="intention_repeater_settings">Pengaturan Pengulang Niat</string>
+    <string name="manage_notifications">Kelola Notifikasi</string>
+    <string name="notifications_are">Notifikasi</string>
+    <string name="enabled">\u0020AKTIF\u0020</string>
+    <string name="disabled">\u0020NONAKTIF\u0020</string>
+    <string name="notification_on_message">Saat berjalan, notifikasi akan diperbarui setiap detik dengan waktu berlalu, frekuensi saat ini, dan jumlah iterasi.</string>
+    <string name="notification_off_message">Anda dapat mengaktifkan notifikasi untuk melihat waktu berlalu, frekuensi saat ini, dan jumlah iterasi saat berjalan sebagai notifikasi.</string>
+    <string name="open_notes_for_intentions">Buka Catatan untuk Niat</string>
+    <string name="website">Situs</string>
+    <string name="forum">Forum</string>
+    <string name="eula">Ketentuan</string>
+    <string name="privacy">Privasi</string>
+    <string name="back">Kembali</string>
+    <string name="prevents_device_from_sleeping_during_3_hz_or_7_83_hz_operations_increases_battery_usage">Mencegah perangkat memasuki mode tidur selama operasi 3 Hz atau 7,83 Hz. Meningkatkan penggunaan baterai.</string>
+    <string name="settings">Pengaturan</string>
+    <string name="reset">RESET</string>
+    <string name="loading_intention">Memuat Niat...</string>
+    <string name="_0_iterations_0_hz">0 Iterasi (0 Hz)</string>
+    <string name="no_text_editor_found_please_install_one_from_the_play_store">Tidak ada editor teks ditemukan. Silakan instal satu dari Play Store.</string>
+    <string name="formatted_0_iterations">0 Iterasi (0 Hz)</string>
+    <string name="enter_intentions">Masukkan Niat</string>
+    <string name="update_language">Perbarui Bahasa</string>
+    <string name="Hz">Hz</string>
+    <string name="kHz">kHz</string>
+    <string name="MHz">MHz</string>
+    <string name="GHz">GHz</string>
+    <string name="THz">THz</string>
+    <string name="PHz">PHz</string>
+    <string name="EHz">EHz</string>
+    <string name="Iterations">Iterasi</string>
+    <string name="k">rb</string> <!-- k for ribu -->
+    <string name="M">jt</string> <!-- M for juta -->
+    <string name="B">m</string> <!-- B for miliar -->
+    <string name="T">triliun</string> <!-- T for triliun -->
+    <string name="q">q</string> <!-- q for kuadriliun -->
+    <string name="Q">Q</string> <!-- Q for kuintiliun -->
+    <string name="s">s</string> <!-- s for sekstilion -->
+    <string name="S">S</string> <!-- S for septilion -->
+
+    <string name="show_intentions_update">Untuk menunjukkan pembaruan niat</string>
+
+    <string name="notifications_enabled">Notifikasi \u0020DIaktifkan\u0020. Saat berjalan, notifikasi akan diperbarui setiap detik dengan waktu yang berlalu, frekuensi saat ini, dan jumlah iterasi.</string>
+    <string name="notifications_disabled">Notifikasi \u0020DINonaktifkan\u0020. Anda dapat mengaktifkan notifikasi untuk melihat waktu yang berlalu, frekuensi saat ini, dan jumlah iterasi saat berjalan sebagai notifikasi.</string>
+    <string name="three_herz_classic">3 Hz (Klasik)</string>
+    <string name="schumann_resonance">7,83 Hz Resonansi Schumann</string>
+    <string name="prevents_device_sleeping">Mencegah perangkat tidur selama operasi 3 Hz atau 7.83 Hz. Meningkatkan penggunaan baterai.</string>
+    <string name="iterations_zero_hz">0 Iterasi (0 Hz)</string>
+    <string name="duration">Durasi</string>
+    <string name="seconds">Detik</string>
+    <string name="intention_repeater_finished">Penyetor Niat Selesai</string>
+    <string name="finished">Selesai: %1$s</string>
+
+    <string name="multiplier">Pengganda [%1$s]: 0</string>
+
+    <string name="multihasher_app">Aplikasi Multihasher</string>
+    <string name="links">Tautan...</string>
+
+
+    <string name="keep_device_awake">Jaga Perangkat Tetap Aktif (3 Hz, 7.83 Hz atau sekali per jam saja)</string>
+    <string name="once_per_hour">Sekali per Jam (Optimal)</string>
+    <string name="record_voice_intention">Rekam Suara Niat</string>
+    <string name="record_voice_description">Ini merekam suara Anda (yang memiliki emosi dan energi di belakangnya) dan memasukkannya ke dalam Niat. Ini memberikan metode yang lebih baik untuk mengulangi niat Anda daripada teks. Merekam hingga 5 menit.</string>
+    <string name="recording">Merekam...</string>
+    <string name="playing">Memutar...</string>
+    <string name="paused">Jeda</string>
+    <string name="tap_play_listen">Ketuk Putar untuk mendengarkan</string>
+    <string name="tap_mic_record">Ketuk Mic untuk merekam</string>
+    <string name="record">Rekam</string>
+    <string name="stop">Berhenti</string>
+    <string name="play">Putar</string>
+    <string name="pause">Jeda</string>
+    <string name="stop_playback">Hentikan Pemutaran</string>
+    <string name="save">Simpan</string>
+    <string name="cancel">Batal</string>
+    <string name="mic_permission_required">Izin Diperlukan</string>
+    <string name="mic_permission_description">Aplikasi ini membutuhkan akses mikrofon untuk merekam suara Anda. Harap aktifkan di pengaturan aplikasi.</string>
+    <string name="open_settings">Buka Pengaturan</string>
+
+</resources>

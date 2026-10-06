@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">Avsiktsupprepare</string>
+    <string name="intention_repeater_header">Avsiktsupprepare</string>
+    <string name="by_anthro_teacher">av Anthro Teacher</string>
+    <string name="mult_0">Multipel [%1$s]: 0</string>
+    <string name="_3_hz_classic">3 Hz (Klassisk)</string>
+    <string name="_7_83_hz_schumann_resonance_optimal">7,83 Hz Schumannresonans (Optimal)</string>
+    <string name="str_maximum_frequency">Maximal Frekvens</string>
+    <string name="power_boost_uses_sha512_encoding">Kraftökning - Använder Sha512-kodning</string>
+    <string name="keep_device_awake_3_hz_or_7_83_hz_only">Håll Enheten Vaken (endast 3 Hz eller 7,83 Hz)</string>
+    <string name="str_iterations">%1$s Iterationer (%2$s)</string>
+    <string name="str_stop">STOPP</string>
+    <string name="str_start">STARTA</string>
+    <string name="str_load_file">LADDA FIL</string>
+    <string name="str_version">Version %1$s</string>
+    <string name="intention_repeater_settings">Inställningar för Avsiktsupprepare</string>
+    <string name="manage_notifications">Hantera Aviseringar</string>
+    <string name="notifications_are">Aviseringar är</string>
+    <string name="enabled">\u0020AKTIVERADE\u0020</string>
+    <string name="disabled">\u0020INAKTIVERAD\u0020</string>
+    <string name="notification_on_message">När den körs uppdateras aviseringen varje sekund med förfluten tid, aktuell frekvens och antal iterationer.</string>
+    <string name="notification_off_message">Du kan aktivera aviseringar för att visa förfluten tid, aktuell frekvens och antal iterationer när du körs som en avisering.</string>
+    <string name="open_notes_for_intentions">Öppna Anteckningar för Avsikter</string>
+    <string name="website">Webbplats</string>
+    <string name="forum">Forum</string>
+    <string name="eula">Villkor</string>
+    <string name="privacy">Integritet</string>
+    <string name="back">Tillbaka</string>
+    <string name="prevents_device_from_sleeping_during_3_hz_or_7_83_hz_operations_increases_battery_usage">Förhindrar att enheten går i viloläge under operationer på 3 Hz eller 7,83 Hz. Ökar batterianvändningen.</string>
+    <string name="settings">Inställningar</string>
+    <string name="reset">ÅTERSTÄLL</string>
+    <string name="loading_intention">Laddar Avsikt...</string>
+    <string name="_0_iterations_0_hz">0 Iterationer (0 Hz)</string>
+    <string name="no_text_editor_found_please_install_one_from_the_play_store">Ingen textredigerare hittades. Installera en från Play Store.</string>
+    <string name="formatted_0_iterations">0 Iterationer (0 Hz)</string>
+    <string name="enter_intentions">Ange intentioner</string>
+    <string name="update_language">Uppdatera språk</string>
+    <string name="Hz">Hz</string>
+    <string name="kHz">kHz</string>
+    <string name="MHz">MHz</string>
+    <string name="GHz">GHz</string>
+    <string name="THz">THz</string>
+    <string name="PHz">PHz</string>
+    <string name="EHz">EHz</string>
+    <string name="Iterations">Iterationer</string>
+    <string name="k">t</string> <!-- k for tusen -->
+    <string name="M">M</string> <!-- M for miljon -->
+    <string name="B">Md</string> <!-- B for miljard -->
+    <string name="T">T</string> <!-- T for biljon -->
+    <string name="q">Kv</string> <!-- q for kvadriljon -->
+    <string name="Q">Qt</string> <!-- Q for kvintiljon -->
+    <string name="s">Sx</string> <!-- s for sextiljon -->
+    <string name="S">Sp</string> <!-- S for septiljon -->
+
+    <string name="show_intentions_update">För att visa intentioner uppdatering</string>
+
+    <string name="notifications_enabled">Notiser är \u0020AKTIVERADE\u0020. Under körning kommer notisen att uppdateras varje sekund med förfluten tid, aktuell frekvens och antal iterationer.</string>
+    <string name="notifications_disabled">Notiser är \u0020DEAKTIVERADE\u0020. Du kan aktivera notiser för att se förfluten tid, aktuell frekvens och antal iterationer när den körs som en notis.</string>
+    <string name="three_herz_classic">3 Hz (Klassisk)</string>
+    <string name="schumann_resonance">7,83 Hz Schumann-resonans</string>
+    <string name="prevents_device_sleeping">Förhindrar att enheten går i viloläge under 3 Hz eller 7.83 Hz-operationer. Ökar batteriförbrukningen.</string>
+    <string name="iterations_zero_hz">0 Iterationer (0 Hz)</string>
+    <string name="duration">Varaktighet</string>
+    <string name="seconds">Sekunder</string>
+    <string name="intention_repeater_finished">Intention Repeater Klar</string>
+    <string name="finished">Klar: %1$s</string>
+
+    <string name="multiplier">Multiplikator [%1$s]: 0</string>
+
+    <string name="multihasher_app">Multihasher-app</string>
+    <string name="links">Länkar...</string>
+
+
+    <string name="keep_device_awake">Håll enheten vaken (3 Hz, 7,83 Hz eller endast en gång per timme)</string>
+    <string name="once_per_hour">En gång per timme (Optimal)</string>
+    <string name="record_voice_intention">Spela in röstintention</string>
+    <string name="record_voice_description">Detta spelar in din röst (som har känslor och energi bakom sig) och sätter in den i intentionen. Det ger en bättre metod för att upprepa din intention än text. Spelar in upp till 5 minuter.</string>
+    <string name="recording">Spelar in...</string>
+    <string name="playing">Spelar...</string>
+    <string name="paused">Pausad</string>
+    <string name="tap_play_listen">Tryck på Spela för att lyssna</string>
+    <string name="tap_mic_record">Tryck på Mikrofon för att spela in</string>
+    <string name="record">Spela in</string>
+    <string name="stop">Stopp</string>
+    <string name="play">Spela</string>
+    <string name="pause">Paus</string>
+    <string name="stop_playback">Stoppa uppspelning</string>
+    <string name="save">Spara</string>
+    <string name="cancel">Avbryt</string>
+    <string name="mic_permission_required">Behövs tillstånd</string>
+    <string name="mic_permission_description">Denna app behöver mikrofontillgång för att spela in din röst. Vänligen aktivera det i appinställningarna.</string>
+    <string name="open_settings">Öppna inställningar</string>
+
+</resources>

@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">意图重复器</string>
+    <string name="intention_repeater_header">意图重复器</string>
+    <string name="by_anthro_teacher">由 Anthro Teacher 提供</string>
+    <string name="mult_0">乘 [%1$s]: 0</string>
+    <string name="_3_hz_classic">3 赫兹（经典）</string>
+    <string name="_7_83_hz_schumann_resonance_optimal">7.83 赫兹 舒曼共振（最佳）</string>
+    <string name="str_maximum_frequency">最大频率</string>
+    <string name="power_boost_uses_sha512_encoding">功率提升 - 使用 Sha512 编码</string>
+    <string name="keep_device_awake_3_hz_or_7_83_hz_only">保持设备唤醒（仅 3 赫兹 或 7.83 赫兹）</string>
+    <string name="str_iterations">%1$s 次迭代 (%2$s)</string>
+    <string name="str_stop">停止</string>
+    <string name="str_start">开始</string>
+    <string name="str_load_file">加载文件</string>
+    <string name="str_version">版本 %1$s</string>
+    <string name="intention_repeater_settings">意图重复器设置</string>
+    <string name="manage_notifications">管理通知</string>
+    <string name="notifications_are">"通知是 "</string>
+    <string name="enabled">\u0020启用\u0020</string>
+    <string name="disabled">\u0020禁用\u0020</string>
+    <string name="notification_on_message">。运行时，通知每秒更新一次，显示已用时间、当前频率和迭代次数。</string>
+    <string name="notification_off_message">。您可以启用通知，以便在运行时查看已用时间、当前频率和迭代次数。</string>
+    <string name="open_notes_for_intentions">打开意图笔记</string>
+    <string name="website">网站</string>
+    <string name="forum">论坛</string>
+    <string name="eula">最终用户许可协议</string>
+    <string name="privacy">隐私</string>
+    <string name="back">返回</string>
+    <string name="prevents_device_from_sleeping_during_3_hz_or_7_83_hz_operations_increases_battery_usage">防止设备在 3 赫兹 或 7.83 赫兹 操作期间进入睡眠状态。增加电池使用量。</string>
+    <string name="settings">设置</string>
+    <string name="reset">重置</string>
+    <string name="loading_intention">正在加载意图...</string>
+    <string name="_0_iterations_0_hz">0 次迭代 (0 赫兹)</string>
+    <string name="no_text_editor_found_please_install_one_from_the_play_store">未找到文本编辑器。请从Play商店安装一个。</string>
+    <string name="formatted_0_iterations">0 次迭代 (0 Hz)</string>
+    <string name="enter_intentions">输入意图</string>
+    <string name="update_language">更新语言</string>
+    <string name="Hz">赫兹</string>
+    <string name="kHz">千赫兹</string>
+    <string name="MHz">兆赫兹</string>
+    <string name="GHz">吉赫兹</string>
+    <string name="THz">太赫兹</string>
+    <string name="PHz">拍赫兹</string>
+    <string name="EHz">艾赫兹</string>
+    <string name="Iterations">迭代</string>
+    <string name="k">千</string> <!-- k for 千 -->
+    <string name="M">百万</string> <!-- M for 百万 -->
+    <string name="B">十亿</string> <!-- B for 十亿 -->
+    <string name="T">万亿</string> <!-- T for 万亿 -->
+    <string name="q">千万亿</string> <!-- q for 千万亿 -->
+    <string name="Q">千万亿</string> <!-- Q for 千万亿 -->
+    <string name="s">百亿亿</string> <!-- s for 百亿亿 -->
+    <string name="S">千亿亿</string> <!-- S for 千亿亿 -->
+
+    <string name="show_intentions_update">显示意图更新</string>
+
+    <string name="notifications_enabled">通知 \u0020已启用\u0020。运行时，通知将每秒更新一次，显示经过的时间、当前频率和迭代次数。</string>
+    <string name="notifications_disabled">通知 \u0020已禁用\u0020。您可以启用通知，以便在运行时作为通知查看经过的时间、当前频率和迭代次数。</string>
+    <string name="three_herz_classic">3 赫兹 (经典)</string>
+    <string name="schumann_resonance">7.83 赫兹舒曼共振</string>
+    <string name="prevents_device_sleeping">防止设备在 3 赫兹 或 7.83 赫兹 操作期间进入睡眠模式。增加电池消耗。</string>
+    <string name="iterations_zero_hz">0 次迭代（0 赫兹）</string>
+    <string name="duration">持续时间</string>
+    <string name="seconds">秒</string>
+    <string name="intention_repeater_finished">意图重复器已完成</string>
+    <string name="finished">完成：%1$s</string>
+
+    <string name="multiplier">乘数 [%1$s]: 0</string>
+
+    <string name="multihasher_app">多哈希器应用</string>
+    <string name="links">链接...</string>
+
+
+    <string name="keep_device_awake">保持设备唤醒（3 Hz，7.83 Hz 或每小时一次）</string>
+    <string name="once_per_hour">每小时一次（最佳）</string>
+    <string name="record_voice_intention">录制声音意图</string>
+    <string name="record_voice_description">这将录制您的声音（包含情感和能量），并将其插入意图中。与文本相比，这提供了一种更好的重复意图的方法。最多录制5分钟。</string>
+    <string name="recording">正在录制...</string>
+    <string name="playing">正在播放...</string>
+    <string name="paused">已暂停</string>
+    <string name="tap_play_listen">点击播放以收听</string>
+    <string name="tap_mic_record">点击麦克风进行录音</string>
+    <string name="record">录音</string>
+    <string name="stop">停止</string>
+    <string name="play">播放</string>
+    <string name="pause">暂停</string>
+    <string name="stop_playback">停止播放</string>
+    <string name="save">保存</string>
+    <string name="cancel">取消</string>
+    <string name="mic_permission_required">需要权限</string>
+    <string name="mic_permission_description">此应用需要麦克风访问权限来录制您的声音。请在应用设置中启用它。</string>
+    <string name="open_settings">打开设置</string>
+
+</resources>

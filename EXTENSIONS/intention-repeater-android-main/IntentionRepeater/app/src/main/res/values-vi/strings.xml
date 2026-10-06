@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">Bộ Lặp Lại Ý Định</string>
+    <string name="intention_repeater_header">Bộ Lặp Lại Ý Định</string>
+    <string name="by_anthro_teacher">bởi Anthro Teacher</string>
+    <string name="mult_0">Đa [%1$s]: 0</string>
+    <string name="_3_hz_classic">3 Hz (Cổ Điển)</string>
+    <string name="_7_83_hz_schumann_resonance_optimal">7,83 Hz Cộng Hưởng Schumann (Tối Ưu)</string>
+    <string name="str_maximum_frequency">Tần Số Tối Đa</string>
+    <string name="power_boost_uses_sha512_encoding">Tăng Cường Công Suất - Sử Dụng Mã Hóa Sha512</string>
+    <string name="keep_device_awake_3_hz_or_7_83_hz_only">Giữ Thiết Bị Thức (chỉ 3 Hz hoặc 7,83 Hz)</string>
+    <string name="str_iterations">%1$s Số Lần Lặp (%2$s)</string>
+    <string name="str_stop">DỪNG</string>
+    <string name="str_start">BẮT ĐẦU</string>
+    <string name="str_load_file">TẢI TỆP</string>
+    <string name="str_version">Phiên bản %1$s</string>
+    <string name="intention_repeater_settings">Cài Đặt Bộ Lặp Ý Định</string>
+    <string name="manage_notifications">Quản Lý Thông Báo</string>
+    <string name="notifications_are">Thông báo</string>
+    <string name="enabled">\u0020ĐÃ KÍCH HOẠT\u0020</string>
+    <string name="disabled">\u0020ĐÃ TẮT\u0020</string>
+    <string name="notification_on_message">Khi đang chạy, thông báo sẽ được cập nhật mỗi giây với thời gian đã trôi qua, tần số hiện tại và số lần lặp lại.</string>
+    <string name="notification_off_message">Bạn có thể bật thông báo để xem thời gian đã trôi qua, tần số hiện tại và số lần lặp lại khi chạy dưới dạng thông báo.</string>
+    <string name="open_notes_for_intentions">Mở Ghi Chú Cho Ý Định</string>
+    <string name="website">Trang</string>
+    <string name="forum">Diễn Đàn</string>
+    <string name="eula">Điều Khoản</string>
+    <string name="privacy">Riêng Tư</string>
+    <string name="back">Quay Lại</string>
+    <string name="prevents_device_from_sleeping_during_3_hz_or_7_83_hz_operations_increases_battery_usage">Ngăn thiết bị chuyển sang chế độ ngủ trong quá trình hoạt động ở 3 Hz hoặc 7,83 Hz. Tăng mức tiêu thụ pin.</string>
+    <string name="settings">Cài Đặt</string>
+    <string name="reset">ĐẶT LẠI</string>
+    <string name="loading_intention">Đang Tải Ý Định...</string>
+    <string name="_0_iterations_0_hz">0 Số Lần Lặp (0 Hz)</string>
+    <string name="no_text_editor_found_please_install_one_from_the_play_store">Không tìm thấy trình chỉnh sửa văn bản. Vui lòng cài đặt một từ Play Store.</string>
+    <string name="formatted_0_iterations">0 Lặp lại (0 Hz)</string>
+    <string name="enter_intentions">Nhập ý định</string>
+    <string name="update_language">Cập nhật ngôn ngữ</string>
+    <string name="Hz">Hz</string>
+    <string name="kHz">kHz</string>
+    <string name="MHz">MHz</string>
+    <string name="GHz">GHz</string>
+    <string name="THz">THz</string>
+    <string name="PHz">PHz</string>
+    <string name="EHz">EHz</string>
+    <string name="Iterations">Lặp lại</string>
+    <string name="k">k</string> <!-- k for nghìn -->
+    <string name="M">M</string> <!-- M for triệu -->
+    <string name="B">T</string> <!-- B for tỷ -->
+    <string name="T">NT</string> <!-- T for nghìn tỷ -->
+    <string name="q">Q</string> <!-- q for tứ trắc -->
+    <string name="Q">Q</string> <!-- Q for tứ thập -->
+    <string name="s">s</string> <!-- s for thập phân -->
+    <string name="S">S</string> <!-- S for thập lục -->
+
+    <string name="show_intentions_update">Để hiển thị cập nhật ý định</string>
+
+    <string name="notifications_enabled">Thông báo \u0020ĐƯỢC BẬT\u0020. Khi đang chạy, thông báo sẽ được cập nhật mỗi giây với thời gian trôi qua, tần số hiện tại và số lần lặp lại.</string>
+    <string name="notifications_disabled">Thông báo \u0020ĐÃ TẮT\u0020. Bạn có thể bật thông báo để xem thời gian trôi qua, tần số hiện tại và số lần lặp lại khi nó hoạt động như một thông báo.</string>
+    <string name="three_herz_classic">3 Hz (Cổ điển)</string>
+    <string name="schumann_resonance">7.83 Hz Độ cộng hưởng Schumann</string>
+    <string name="prevents_device_sleeping">Ngăn thiết bị vào chế độ ngủ trong khi hoạt động ở 3 Hz hoặc 7.83 Hz. Tăng cường tiêu thụ pin.</string>
+    <string name="iterations_zero_hz">0 Lần lặp lại (0 Hz)</string>
+    <string name="duration">Thời gian</string>
+    <string name="seconds">Giây</string>
+    <string name="intention_repeater_finished">Bộ lặp lại ý định đã hoàn tất</string>
+    <string name="finished">Hoàn tất: %1$s</string>
+
+    <string name="multiplier">Hệ số nhân [%1$s]: 0</string>
+
+    <string name="multihasher_app">Ứng dụng Multihasher</string>
+    <string name="links">Liên kết...</string>
+
+
+    <string name="keep_device_awake">Giữ thiết bị luôn hoạt động (3 Hz, 7,83 Hz hoặc chỉ một lần mỗi giờ)</string>
+    <string name="once_per_hour">Một lần mỗi giờ (Tối ưu)</string>
+    <string name="record_voice_intention">Ghi lại ý định giọng nói</string>
+    <string name="record_voice_description">Điều này ghi âm giọng nói của bạn (có cảm xúc và năng lượng đằng sau) và chèn vào ý định. Nó cung cấp một cách tốt hơn để lặp lại ý định của bạn hơn là văn bản. Ghi âm lên đến 5 phút.</string>
+    <string name="recording">Đang ghi âm...</string>
+    <string name="playing">Đang phát...</string>
+    <string name="paused">Tạm dừng</string>
+    <string name="tap_play_listen">Nhấn Phát để nghe</string>
+    <string name="tap_mic_record">Nhấn Micro để ghi âm</string>
+    <string name="record">Ghi âm</string>
+    <string name="stop">Dừng</string>
+    <string name="play">Phát</string>
+    <string name="pause">Tạm dừng</string>
+    <string name="stop_playback">Dừng phát lại</string>
+    <string name="save">Lưu</string>
+    <string name="cancel">Hủy bỏ</string>
+    <string name="mic_permission_required">Cần có quyền truy cập</string>
+    <string name="mic_permission_description">Ứng dụng này cần quyền truy cập vào micrô để ghi âm giọng nói của bạn. Vui lòng kích hoạt nó trong cài đặt ứng dụng.</string>
+    <string name="open_settings">Mở Cài đặt</string>
+
+</resources>

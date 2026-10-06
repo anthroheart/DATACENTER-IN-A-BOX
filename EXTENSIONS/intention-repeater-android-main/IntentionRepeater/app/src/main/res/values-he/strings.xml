@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">חוזר כוונה</string>
+    <string name="intention_repeater_header">חוזר כוונה</string>
+    <string name="by_anthro_teacher">מאת Anthro Teacher</string>
+    <string name="mult_0">ריבוי [%1$s]: 0</string>
+    <string name="_3_hz_classic">3 הרץ (קלאסי)</string>
+    <string name="_7_83_hz_schumann_resonance_optimal">7.83 הרץ תהודה שומאן (אופטימלית)</string>
+    <string name="str_maximum_frequency">תדר מרבי</string>
+    <string name="power_boost_uses_sha512_encoding">תגבורת כוח - משתמש בקידוד Sha512</string>
+    <string name="keep_device_awake_3_hz_or_7_83_hz_only">שמור את המכשיר ער (3 הרץ או 7.83 הרץ בלבד)</string>
+    <string name="str_iterations">%1$s איטרציות (%2$s)</string>
+    <string name="str_stop">עצור</string>
+    <string name="str_start">התחל</string>
+    <string name="str_load_file">טען קובץ</string>
+    <string name="str_version">גרסה %1$s</string>
+    <string name="intention_repeater_settings">הגדרות חוזר כוונה</string>
+    <string name="manage_notifications">נהל התראות</string>
+    <string name="notifications_are">התראות</string>
+    <string name="enabled">\u0020מופעלות\u0020</string>
+    <string name="disabled">\u0020מושבתות\u0020</string>
+    <string name="notification_on_message">כאשר מופעל, ההתראה תתעדכן כל שנייה עם הזמן שחלף, התדר הנוכחי ומספר האיטרציות.</string>
+    <string name="notification_off_message">אתה יכול להפעיל התראות כדי לצפות בזמן שחלף, התדר הנוכחי ומספר האיטרציות כאשר פועל כהתראה.</string>
+    <string name="open_notes_for_intentions">פתח הערות לכוונות</string>
+    <string name="website">אתר</string>
+    <string name="forum">פורום</string>
+    <string name="eula">תנאים</string>
+    <string name="privacy">פרטיות</string>
+    <string name="back">חזור</string>
+    <string name="prevents_device_from_sleeping_during_3_hz_or_7_83_hz_operations_increases_battery_usage">מונע מהמכשיר להיכנס למצב שינה במהלך פעולות של 3 הרץ או 7.83 הרץ. מגביר את צריכת הסוללה.</string>
+    <string name="settings">הגדרות</string>
+    <string name="reset">אִתחוּל</string>
+    <string name="loading_intention">טוען כוונה...</string>
+    <string name="_0_iterations_0_hz">0 איטרציות (0 הרץ)</string>
+    <string name="no_text_editor_found_please_install_one_from_the_play_store">לא נמצא עורך טקסט. אנא התקן אחד מחנות Play.</string>
+    <string name="formatted_0_iterations">0 חזרות (0 הרץ)</string>
+    <string name="enter_intentions">הזן כוונות</string>
+    <string name="update_language">עדכן שפה</string>
+    <string name="Hz">הרץ</string>
+    <string name="kHz">קילו־הרץ</string>
+    <string name="MHz">מגה־הרץ</string>
+    <string name="GHz">גיגה־הרץ</string>
+    <string name="THz">טרה־הרץ</string>
+    <string name="PHz">פיטה־הרץ</string>
+    <string name="EHz">אקסה־הרץ</string>
+    <string name="Iterations">איטרציות</string>
+    <string name="k">k</string> <!-- k for אלף -->
+    <string name="M">M</string> <!-- M for מיליון -->
+    <string name="B">B</string> <!-- B for מיליארד -->
+    <string name="T">T</string> <!-- T for טריליון -->
+    <string name="q">ק</string> <!-- q for קוודריליון -->
+    <string name="Q">ק</string> <!-- Q for קווינטיליון -->
+    <string name="s">ס</string> <!-- s for סקסטיליון -->
+    <string name="S">ס</string> <!-- S for ספטיליון -->
+
+    <string name="show_intentions_update">כדי להציג עדכון כוונות</string>
+
+    <string name="notifications_enabled">התראות \u0020מופעלות\u0020. במהלך ההפעלה, ההתראה תתעדכן כל שנייה עם הזמן שחלף, התדר הנוכחי ומספר החזרות.</string>
+    <string name="notifications_disabled">התראות \u0020מושבתות\u0020. תוכל להפעיל את ההתראות כדי לצפות בזמן שחלף, בתדר הנוכחי ובמספר החזרות כאשר הפעלת אותן כהודעה.</string>
+    <string name="three_herz_classic">3 הרץ (קלאסי)</string>
+    <string name="schumann_resonance">7.83 הרץ תהודה של שומאן</string>
+    <string name="prevents_device_sleeping">מונע מהמכשיר להיכנס למצב שינה במהלך פעולות ב-3 הרץ או 7.83 הרץ. מגדיל את השימוש בסוללה.</string>
+    <string name="iterations_zero_hz">0 חזרות (0 הרץ)</string>
+    <string name="duration">משך זמן</string>
+    <string name="seconds">שניות</string>
+    <string name="intention_repeater_finished">חוזר כוונות הושלם</string>
+    <string name="finished">הושלם: %1$s</string>
+
+    <string name="multiplier">מכפיל [%1$s]: 0</string>
+
+    <string name="multihasher_app">אפליקציית רב-האש</string>
+    <string name="links">קישורים...</string>
+
+
+    <string name="keep_device_awake">לשמור על המכשיר ער (3 Hz, 7.83 Hz או רק פעם בשעה)</string>
+    <string name="once_per_hour">פעם בשעה (אופטימלי)</string>
+    <string name="record_voice_intention">הקלט כוונת קול</string>
+    <string name="record_voice_description">זה מקליט את קולך (שיש מאחוריו רגש ואנרגיה) ומכניס אותו לכוונה. הוא מספק דרך טובה יותר לחזור על כוונתך מאשר טקסט. מקליט עד 5 דקות.</string>
+    <string name="recording">מקליט...</string>
+    <string name="playing">מנגן...</string>
+    <string name="paused">בהשהיה</string>
+    <string name="tap_play_listen">הקש על הפעלה כדי להאזין</string>
+    <string name="tap_mic_record">הקש על המיקרופון להקלטה</string>
+    <string name="record">הקלט</string>
+    <string name="stop">עצור</string>
+    <string name="play">הפעל</string>
+    <string name="pause">השהה</string>
+    <string name="stop_playback">עצור השמעה</string>
+    <string name="save">שמור</string>
+    <string name="cancel">בטל</string>
+    <string name="mic_permission_required">דרושה הרשאה</string>
+    <string name="mic_permission_description">האפליקציה צריכה גישה למיקרופון כדי להקליט את קולך. הפעל אותה בהגדרות האפליקציה.</string>
+    <string name="open_settings">פתח הגדרות</string>
+
+</resources>

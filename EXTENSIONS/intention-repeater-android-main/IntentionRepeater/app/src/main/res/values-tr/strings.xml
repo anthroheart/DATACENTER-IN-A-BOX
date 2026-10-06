@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">Niyet Tekrarlayıcı</string>
+    <string name="intention_repeater_header">Niyet Tekrarlayıcı</string>
+    <string name="by_anthro_teacher">Anthro Teacher tarafından</string>
+    <string name="mult_0">Çoklu [%1$s]: 0</string>
+    <string name="_3_hz_classic">3 Hz (Klasik)</string>
+    <string name="_7_83_hz_schumann_resonance_optimal">7,83 Hz Schumann Rezonansı (Optimum)</string>
+    <string name="str_maximum_frequency">Maksimum Frekans</string>
+    <string name="power_boost_uses_sha512_encoding">Güç Artışı - Sha512 Kodlaması Kullanır</string>
+    <string name="keep_device_awake_3_hz_or_7_83_hz_only">Cihazı Uyanık Tut (yalnızca 3 Hz veya 7,83 Hz)</string>
+    <string name="str_iterations">%1$s İterasyon (%2$s)</string>
+    <string name="str_stop">DUR</string>
+    <string name="str_start">BAŞLAT</string>
+    <string name="str_load_file">DOSYAYI YÜKLE</string>
+    <string name="str_version">Sürüm %1$s</string>
+    <string name="intention_repeater_settings">Niyet Tekrarlayıcı Ayarları</string>
+    <string name="manage_notifications">Bildirimleri Yönet</string>
+    <string name="notifications_are">Bildirimler</string>
+    <string name="enabled">\u0020AÇIK\u0020</string>
+    <string name="disabled">\u0020KAPALI\u0020</string>
+    <string name="notification_on_message">Çalışırken, bildirim geçen süre, mevcut frekans ve yineleme sayısıyla her saniye güncellenir.</string>
+    <string name="notification_off_message">Çalışırken, bildirim olarak geçen süre, mevcut frekans ve yineleme sayısını görmek için bildirimleri etkinleştirebilirsiniz.</string>
+    <string name="open_notes_for_intentions">Niyetler için Notları Aç</string>
+    <string name="website">Site</string>
+    <string name="forum">Forum</string>
+    <string name="eula">Şartlar</string>
+    <string name="privacy">Gizlilik</string>
+    <string name="back">Geri</string>
+    <string name="prevents_device_from_sleeping_during_3_hz_or_7_83_hz_operations_increases_battery_usage">Cihazın 3 Hz veya 7,83 Hz işlemleri sırasında uyku moduna geçmesini önler. Pil kullanımını artırır.</string>
+    <string name="settings">Ayarlar</string>
+    <string name="reset">SIFIRLA</string>
+    <string name="loading_intention">Niyet Yükleniyor...</string>
+    <string name="_0_iterations_0_hz">0 İterasyon (0 Hz)</string>
+    <string name="no_text_editor_found_please_install_one_from_the_play_store">Metin düzenleyici bulunamadı. Lütfen Play Store\'dan bir tane yükleyin.</string>
+    <string name="formatted_0_iterations">0 Yineleme (0 Hz)</string>
+    <string name="enter_intentions">Niyetleri Girin</string>
+    <string name="update_language">Dili Güncelle</string>
+    <string name="Hz">Hz</string>
+    <string name="kHz">kHz</string>
+    <string name="MHz">MHz</string>
+    <string name="GHz">GHz</string>
+    <string name="THz">THz</string>
+    <string name="PHz">PHz</string>
+    <string name="EHz">EHz</string>
+    <string name="Iterations">İterasyonlar</string>
+    <string name="k">b</string> <!-- k for bin -->
+    <string name="M">M</string> <!-- M for milyon -->
+    <string name="B">M</string> <!-- B for milyar -->
+    <string name="T">T</string> <!-- T for trilyon -->
+    <string name="q">K</string> <!-- q for katrilyon -->
+    <string name="Q">Qt</string> <!-- Q for kentilyon -->
+    <string name="s">St</string> <!-- s for sektilyon -->
+    <string name="S">S</string> <!-- S for septilyon -->
+
+    <string name="show_intentions_update">Niyet güncellemesini göstermek için</string>
+
+    <string name="notifications_enabled">Bildirimler \u0020AKTİF\u0020. Çalışırken bildirim her saniye geçen süre, mevcut frekans ve yineleme sayısı ile güncellenecektir.</string>
+    <string name="notifications_disabled">Bildirimler \u0020PASİF\u0020. Bildirimleri etkinleştirerek çalışırken geçen süreyi, mevcut frekansı ve yineleme sayısını bir bildirim olarak görebilirsiniz.</string>
+    <string name="three_herz_classic">3 Hz (Klasik)</string>
+    <string name="schumann_resonance">7.83 Hz Schumann Rezonansı</string>
+    <string name="prevents_device_sleeping">3 Hz veya 7.83 Hz işlemleri sırasında cihazın uykuya geçmesini önler. Pil tüketimini artırır.</string>
+    <string name="iterations_zero_hz">0 Tekrar (0 Hz)</string>
+    <string name="duration">Süre</string>
+    <string name="seconds">Saniye</string>
+    <string name="intention_repeater_finished">Niyet Tekrarlayıcı Tamamlandı</string>
+    <string name="finished">Tamamlandı: %1$s</string>
+
+    <string name="multiplier">Çarpan [%1$s]: 0</string>
+
+    <string name="multihasher_app">Multihasher Uygulaması</string>
+    <string name="links">Bağlantılar...</string>
+
+
+    <string name="keep_device_awake">Cihazı Uyanık Tutun (3 Hz, 7.83 Hz veya saatte bir kez sadece)</string>
+    <string name="once_per_hour">Saate Bir Kez (Optimal)</string>
+    <string name="record_voice_intention">Ses Niyetini Kaydet</string>
+    <string name="record_voice_description">Bu, sesinizi (duygular ve enerji içeren) kaydeder ve bunu Niyete ekler. Metinden daha iyi bir şekilde niyetinizi tekrar etmenin bir yolunu sağlar. 5 dakikaya kadar kaydeder.</string>
+    <string name="recording">Kaydediliyor...</string>
+    <string name="playing">Çalıyor...</string>
+    <string name="paused">Duraklatıldı</string>
+    <string name="tap_play_listen">Dinlemek için Çal\'a dokunun</string>
+    <string name="tap_mic_record">Kaydetmek için Mikrofona dokunun</string>
+    <string name="record">Kaydet</string>
+    <string name="stop">Durdur</string>
+    <string name="play">Oynat</string>
+    <string name="pause">Duraklat</string>
+    <string name="stop_playback">Oynatmayı Durdur</string>
+    <string name="save">Kaydet</string>
+    <string name="cancel">İptal Et</string>
+    <string name="mic_permission_required">İzin Gerekli</string>
+    <string name="mic_permission_description">Bu uygulama sesinizi kaydetmek için mikrofon erişimine ihtiyaç duyar. Lütfen bunu uygulama ayarlarında etkinleştirin.</string>
+    <string name="open_settings">Ayarları Aç</string>
+
+</resources>

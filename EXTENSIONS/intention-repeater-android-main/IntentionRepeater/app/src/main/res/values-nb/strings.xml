@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">Intensjonsrepeater</string>
+    <string name="intention_repeater_header">Intensjonsrepeater</string>
+    <string name="by_anthro_teacher">av Anthro Teacher</string>
+    <string name="mult_0">Mult [%1$s]: 0</string>
+    <string name="_3_hz_classic">3 Hz (Klassisk)</string>
+    <string name="_7_83_hz_schumann_resonance_optimal">7,83 Hz Schumann Resonans (Optimal)</string>
+    <string name="str_maximum_frequency">Maksimal Frekvens</string>
+    <string name="power_boost_uses_sha512_encoding">Strømøkning - Bruker Sha512-koding</string>
+    <string name="keep_device_awake_3_hz_or_7_83_hz_only">Hold enheten våken (Kun 3 Hz eller 7,83 Hz)</string>
+    <string name="str_iterations">%1$s Iterasjoner (%2$s)</string>
+    <string name="str_stop">STOPP</string>
+    <string name="str_start">START</string>
+    <string name="str_load_file">LAST INN FIL</string>
+    <string name="str_version">Versjon %1$s</string>
+    <string name="intention_repeater_settings">Innstillinger for Intensjonsrepeater</string>
+    <string name="manage_notifications">Administrer Varsler</string>
+    <string name="notifications_are">\u0020Varsler\u0020er\u0020</string>
+    <string name="enabled">\u0020AKTIVERT\u0020</string>
+    <string name="disabled">\u0020DEAKTIVERT\u0020</string>
+    <string name="notification_on_message">. Når appen kjører, oppdateres varselet hvert sekund med forløpt tid, nåværende frekvens og antall iterasjoner.</string>
+    <string name="notification_off_message">. Du kan aktivere varsler for å se forløpt tid, nåværende frekvens og antall iterasjoner når appen kjører som et varsel.</string>
+    <string name="open_notes_for_intentions">Åpne Notater for Intensjoner</string>
+    <string name="website">Nettside</string>
+    <string name="forum">Forum</string>
+    <string name="eula">EULA</string>
+    <string name="privacy">Personvern</string>
+    <string name="back">Tilbake</string>
+    <string name="prevents_device_from_sleeping_during_3_hz_or_7_83_hz_operations_increases_battery_usage">Forhindrer enheten i å gå i dvale under 3 Hz eller 7,83 Hz operasjoner. Øker batteriforbruket.</string>
+    <string name="settings">Innstillinger</string>
+    <string name="reset">TILBAKESTILL</string>
+    <string name="loading_intention">Laster Intensjon...</string>
+    <string name="_0_iterations_0_hz">0 Iterasjoner (0 Hz)</string>
+    <string name="no_text_editor_found_please_install_one_from_the_play_store">Ingen tekstredigerer funnet. Installer en fra Play Store.</string>
+    <string name="formatted_0_iterations">0 iterasjoner (0 Hz)</string>
+    <string name="enter_intentions">Angi intensjoner</string>
+    <string name="update_language">Oppdater språk</string>
+    <string name="Hz">Hz</string>
+    <string name="kHz">kHz</string>
+    <string name="MHz">MHz</string>
+    <string name="GHz">GHz</string>
+    <string name="THz">THz</string>
+    <string name="PHz">PHz</string>
+    <string name="EHz">EHz</string>
+    <string name="Iterations">Iterasjoner</string>
+    <string name="k">t</string> <!-- k for tusen -->
+    <string name="M">M</string> <!-- M for million -->
+    <string name="B">mrd</string> <!-- B for milliard -->
+    <string name="T">bil</string> <!-- T for billion -->
+    <string name="q">kvad</string> <!-- q for kvadrillion -->
+    <string name="Q">kvin</string> <!-- Q for kvintillion -->
+    <string name="s">seks</string> <!-- s for sekstiljon -->
+    <string name="S">sept</string> <!-- S for septillion -->
+
+    <string name="show_intentions_update">For å vise intensjonsoppdatering</string>
+
+    <string name="notifications_enabled">Varsler er \u0020AKTIVERT\u0020. Når du kjører, vil varslingen oppdateres hvert sekund med forløpt tid, gjeldende frekvens og antall iterasjoner.</string>
+    <string name="notifications_disabled">Varsler er \u0020DEAKTIVERT\u0020. Du kan aktivere varsler for å se forløpt tid, gjeldende frekvens og antall iterasjoner når det kjører som et varsel.</string>
+    <string name="three_herz_classic">3 Hz (Klassisk)</string>
+    <string name="schumann_resonance">7,83 Hz Schumann-resonans</string>
+    <string name="prevents_device_sleeping">Forhindrer enheten fra å gå i hvilemodus under 3 Hz eller 7.83 Hz operasjoner. Øker batteriforbruket.</string>
+    <string name="iterations_zero_hz">0 Iterasjoner (0 Hz)</string>
+    <string name="duration">Varighet</string>
+    <string name="seconds">Sekunder</string>
+    <string name="intention_repeater_finished">Intensjonsrepeater ferdig</string>
+    <string name="finished">Ferdig: %1$s</string>
+
+    <string name="multiplier">Multipliserer [%1$s]: 0</string>
+
+    <string name="multihasher_app">Multihasher-app</string>
+    <string name="links">Lenker...</string>
+
+
+    <string name="keep_device_awake">Hold enheten våken (3 Hz, 7,83 Hz eller bare en gang i timen)</string>
+    <string name="once_per_hour">En gang i timen (Optimal)</string>
+    <string name="record_voice_intention">Ta opp stemmeintensjon</string>
+    <string name="record_voice_description">Dette tar opp stemmen din (som har følelser og energi bak) og setter det inn i intensjonen. Det gir en bedre metode for å gjenta intensjonen din enn tekst. Tar opptak i opptil 5 minutter.</string>
+    <string name="recording">Tar opp...</string>
+    <string name="playing">Spiller...</string>
+    <string name="paused">Pauset</string>
+    <string name="tap_play_listen">Trykk Spill for å lytte</string>
+    <string name="tap_mic_record">Trykk Mikrofon for å ta opp</string>
+    <string name="record">Ta opp</string>
+    <string name="stop">Stopp</string>
+    <string name="play">Spill</string>
+    <string name="pause">Pause</string>
+    <string name="stop_playback">Stopp avspilling</string>
+    <string name="save">Lagre</string>
+    <string name="cancel">Avbryt</string>
+    <string name="mic_permission_required">Tillatelse kreves</string>
+    <string name="mic_permission_description">Denne appen trenger mikrofontilgang for å ta opp stemmen din. Vennligst aktiver det i appinnstillingene.</string>
+    <string name="open_settings">Åpne innstillinger</string>
+
+</resources>

@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">Повторитель намерений</string>
+    <string name="intention_repeater_header">Повторитель намерений</string>
+    <string name="by_anthro_teacher">от Anthro Teacher</string>
+    <string name="mult_0">Множитель [%1$s]: 0</string>
+    <string name="_3_hz_classic">3 Гц (Классический)</string>
+    <string name="_7_83_hz_schumann_resonance_optimal">7,83 Гц Резонанс Шумана (Оптимальный)</string>
+    <string name="str_maximum_frequency">Максимальная частота</string>
+    <string name="power_boost_uses_sha512_encoding">Усиление мощности - Использует кодировку Sha512</string>
+    <string name="keep_device_awake_3_hz_or_7_83_hz_only">Не давать устройству переходить в спящий режим (только 3 Гц или 7,83 Гц)</string>
+    <string name="str_iterations">%1$s Итерации (%2$s)</string>
+    <string name="str_stop">СТОП</string>
+    <string name="str_start">СТАРТ</string>
+    <string name="str_load_file">ЗАГРУЗИТЬ ФАЙЛ</string>
+    <string name="str_version">Версия %1$s</string>
+    <string name="intention_repeater_settings">Настройки повторителя намерений</string>
+    <string name="manage_notifications">Управление уведомлениями</string>
+    <string name="notifications_are">"Уведомления "</string>
+    <string name="enabled">\u0020ВКЛЮЧЕНЫ\u0020</string>
+    <string name="disabled">\u0020ВЫКЛЮЧЕНЫ\u0020</string>
+    <string name="notification_on_message">. При работе уведомление будет обновляться каждую секунду с указанием прошедшего времени, текущей частоты и количества итераций.</string>
+    <string name="notification_off_message">. Вы можете включить уведомления для отображения прошедшего времени, текущей частоты и количества итераций при работе в виде уведомления.</string>
+    <string name="open_notes_for_intentions">Открыть заметки для намерений</string>
+    <string name="website">Веб-сайт</string>
+    <string name="forum">Форум</string>
+    <string name="eula">Условия</string>
+    <string name="privacy">Политика</string>
+    <string name="back">Назад</string>
+    <string name="prevents_device_from_sleeping_during_3_hz_or_7_83_hz_operations_increases_battery_usage">Предотвращает переход устройства в спящий режим во время работы на частотах 3 Гц или 7,83 Гц. Увеличивает расход заряда батареи.</string>
+    <string name="settings">Настройки</string>
+    <string name="reset">СБРОС</string>
+    <string name="loading_intention">Загрузка намерения...</string>
+    <string name="_0_iterations_0_hz">0 Итераций (0 Гц)</string>
+    <string name="no_text_editor_found_please_install_one_from_the_play_store">Текстовый редактор не найден. Установите его из Play Store.</string>
+    <string name="formatted_0_iterations">0 Итераций (0 Гц)</string>
+    <string name="enter_intentions">Введите намерения</string>
+    <string name="update_language">Обновить язык</string>
+    <string name="Hz">Гц</string>
+    <string name="kHz">кГц</string>
+    <string name="MHz">МГц</string>
+    <string name="GHz">ГГц</string>
+    <string name="THz">ТГц</string>
+    <string name="PHz">ПГц</string>
+    <string name="EHz">ЭГц</string>
+    <string name="Iterations">Итерации</string>
+    <string name="k">тыс</string> <!-- k for тысяча -->
+    <string name="M">млн</string> <!-- M for миллион -->
+    <string name="B">млрд</string> <!-- B for миллиард -->
+    <string name="T">трлн</string> <!-- T for триллион -->
+    <string name="q">квдр</string> <!-- q for квадриллион -->
+    <string name="Q">квин</string> <!-- Q for квинтиллион -->
+    <string name="s">секст</string> <!-- s for секстиллион -->
+    <string name="S">септ</string> <!-- S for септиллион -->
+
+    <string name="show_intentions_update">Чтобы показать обновление намерений</string>
+
+    <string name="notifications_enabled">Уведомления \u0020ВКЛЮЧЕНЫ\u0020. Во время работы уведомление будет обновляться каждую секунду с информацией о прошедшем времени, текущей частоте и количестве итераций.</string>
+    <string name="notifications_disabled">Уведомления \u0020ВЫКЛЮЧЕНЫ\u0020. Вы можете включить уведомления, чтобы видеть прошедшее время, текущую частоту и количество итераций, когда оно работает как уведомление.</string>
+    <string name="three_herz_classic">3 Гц (Классический)</string>
+    <string name="schumann_resonance">7,83 Гц Резонанс Шумана</string>
+    <string name="prevents_device_sleeping">Предотвращает переход устройства в спящий режим во время работы на 3 Гц или 7.83 Гц. Увеличивает использование батареи.</string>
+    <string name="iterations_zero_hz">0 Итераций (0 Гц)</string>
+    <string name="duration">Продолжительность</string>
+    <string name="seconds">Секунды</string>
+    <string name="intention_repeater_finished">Повторитель Намерений Завершен</string>
+    <string name="finished">Завершено: %1$s</string>
+
+    <string name="multiplier">Множитель [%1$s]: 0</string>
+
+    <string name="multihasher_app">Приложение Мультихешер</string>
+    <string name="links">Ссылки...</string>
+
+
+    <string name="keep_device_awake">Держите устройство активным (3 Гц, 7,83 Гц или только раз в час)</string>
+    <string name="once_per_hour">Раз в час (Оптимально)</string>
+    <string name="record_voice_intention">Записать голосовое намерение</string>
+    <string name="record_voice_description">Это записывает ваш голос (в котором есть эмоции и энергия) и вставляет его в намерение. Это обеспечивает лучший способ повторения вашего намерения, чем текст. Записывает до 5 минут.</string>
+    <string name="recording">Запись...</string>
+    <string name="playing">Воспроизведение...</string>
+    <string name="paused">Пауза</string>
+    <string name="tap_play_listen">Нажмите «Воспроизвести», чтобы прослушать</string>
+    <string name="tap_mic_record">Нажмите «Микрофон», чтобы записать</string>
+    <string name="record">Записать</string>
+    <string name="stop">Стоп</string>
+    <string name="play">Играть</string>
+    <string name="pause">Пауза</string>
+    <string name="stop_playback">Остановить воспроизведение</string>
+    <string name="save">Сохранить</string>
+    <string name="cancel">Отменить</string>
+    <string name="mic_permission_required">Требуется разрешение</string>
+    <string name="mic_permission_description">Это приложение нуждается в доступе к микрофону для записи вашего голоса. Пожалуйста, активируйте его в настройках приложения.</string>
+    <string name="open_settings">Открыть настройки</string>
+
+</resources>

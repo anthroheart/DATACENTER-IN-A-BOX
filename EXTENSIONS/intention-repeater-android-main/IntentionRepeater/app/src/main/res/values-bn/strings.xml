@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">উদ্দেশ্য পুনরাবৃত্তিকারী</string>
+    <string name="intention_repeater_header">উদ্দেশ্য পুনরাবৃত্তিকারী</string>
+    <string name="by_anthro_teacher">অ্যানথ্রো শিক্ষক দ্বারা</string>
+    <string name="mult_0">মাল্টি [%1$s]: 0</string>
+    <string name="_3_hz_classic">3 Hz (ক্লাসিক)</string>
+    <string name="_7_83_hz_schumann_resonance_optimal">7.83 Hz শুমান রেজোন্যান্স (সর্বোত্তম)</string>
+    <string name="str_maximum_frequency">সর্বাধিক ফ্রিকোয়েন্সি</string>
+    <string name="power_boost_uses_sha512_encoding">পাওয়ার বুস্ট - Sha512 এনকোডিং ব্যবহার করে</string>
+    <string name="keep_device_awake_3_hz_or_7_83_hz_only">ডিভাইসকে জাগ্রত রাখুন (শুধুমাত্র 3 Hz বা 7.83 Hz)</string>
+    <string name="str_iterations">%1$s পুনরাবৃত্তি (%2$s)</string>
+    <string name="str_stop">থামাও</string>
+    <string name="str_start">শুরু</string>
+    <string name="str_load_file">ফাইল লোড করুন</string>
+    <string name="str_version">সংস্করণ %1$s</string>
+    <string name="intention_repeater_settings">উদ্দেশ্য পুনরাবৃত্তিকারীর সেটিংস</string>
+    <string name="manage_notifications">বিজ্ঞপ্তিগুলি পরিচালনা করুন</string>
+    <string name="notifications_are">বিজ্ঞপ্তিগুলি</string>
+    <string name="enabled">\u0020সক্রিয়\u0020</string>
+    <string name="disabled">\u0020নিষ্ক্রিয়\u0020</string>
+    <string name="notification_on_message">চালানোর সময়, বিজ্ঞপ্তিটি প্রতিটি সেকেন্ডে সময়, বর্তমান ফ্রিকোয়েন্সি এবং পুনরাবৃত্তির সংখ্যা সহ আপডেট হবে।</string>
+    <string name="notification_off_message">আপনি বিজ্ঞপ্তিগুলি সক্ষম করতে পারেন, যাতে চালানোর সময় বিজ্ঞপ্তি আকারে সময়, বর্তমান ফ্রিকোয়েন্সি এবং পুনরাবৃত্তির সংখ্যা দেখতে পারেন।</string>
+    <string name="open_notes_for_intentions">উদ্দেশ্যগুলির জন্য নোট খুলুন</string>
+    <string name="website">ওয়েবসাইট</string>
+    <string name="forum">ফোরাম</string>
+    <string name="eula">EULA</string>
+    <string name="privacy">গোপনীয়তা</string>
+    <string name="back">ফিরে যান</string>
+    <string name="prevents_device_from_sleeping_during_3_hz_or_7_83_hz_operations_increases_battery_usage">3 Hz বা 7.83 Hz অপারেশন চলাকালীন ডিভাইসকে ঘুমানো থেকে রোধ করে। ব্যাটারির ব্যবহার বাড়ায়।</string>
+    <string name="settings">সেটিংস</string>
+    <string name="reset">রিসেট</string>
+    <string name="loading_intention">উদ্দেশ্য লোড হচ্ছে...</string>
+    <string name="_0_iterations_0_hz">0 পুনরাবৃত্তি (0 Hz)</string>
+    <string name="update_language">ভাষা আপডেট করুন</string>
+    <string name="no_text_editor_found_please_install_one_from_the_play_store">কোনো টেক্সট এডিটর পাওয়া যায়নি। অনুগ্রহ করে প্লে স্টোর থেকে একটি ইনস্টল করুন।</string>
+    <string name="formatted_0_iterations">০ পুনরাবৃত্তি (০ হার্জ)</string>
+    <string name="enter_intentions">উদ্দেশ্য লিখুন</string>
+    <string name="Hz">হার্জ</string>
+    <string name="kHz">কিলোহার্জ</string>
+    <string name="MHz">মেগাহার্জ</string>
+    <string name="GHz">গিগাহার্জ</string>
+    <string name="THz">টেরাহার্জ</string>
+    <string name="PHz">পেটাহার্জ</string>
+    <string name="EHz">এক্সাহার্জ</string>
+    <string name="Iterations">পুনরাবৃত্তি</string>
+    <string name="k">হা</string> <!-- k for হাজার -->
+    <string name="M">মি</string> <!-- M for মিলিয়ন -->
+    <string name="B">বি</string> <!-- B for বিলিয়ন -->
+    <string name="T">টি</string> <!-- T for ট্রিলিয়ন -->
+    <string name="q">কো</string> <!-- q for কোয়াড্রিলিয়ন -->
+    <string name="Q">কুই</string> <!-- Q for কুইন্টিলিয়ন -->
+    <string name="s">সে</string> <!-- s for সেক্সটিলিয়ন -->
+    <string name="S">সেপ</string> <!-- S for সেপ্টিলিয়ন -->
+
+    <string name="show_intentions_update">উদ্দেশ্য আপডেট দেখানোর জন্য</string>
+
+    <string name="notifications_enabled">বিজ্ঞপ্তিগুলি \u0020সক্রিয়\u0020 রয়েছে। চালু হলে, বিজ্ঞপ্তিটি প্রতি সেকেন্ডে সময়ের সাথে সাথে বর্তমান ফ্রিকোয়েন্সি এবং পুনরাবৃত্তির সংখ্যা আপডেট করবে।</string>
+    <string name="notifications_disabled">বিজ্ঞপ্তিগুলি \u0020নিষ্ক্রিয়\u0020 রয়েছে। বিজ্ঞপ্তি চালু থাকলে সময়ের সাথে সাথে বর্তমান ফ্রিকোয়েন্সি এবং পুনরাবৃত্তির সংখ্যা দেখতে বিজ্ঞপ্তিগুলি সক্ষম করতে পারেন।</string>
+    <string name="three_herz_classic">3 হার্জ (ক্লাসিক)</string>
+    <string name="schumann_resonance">৭.৮৩ হার্জ শুমান রেজোনেন্স</string>
+    <string name="prevents_device_sleeping">3 হার্জ বা 7.83 হার্জ অপারেশনের সময় ডিভাইসটিকে ঘুম থেকে বাধা দেয়। ব্যাটারির ব্যবহার বাড়ায়।</string>
+    <string name="iterations_zero_hz">0 পুনরাবৃত্তি (0 হার্জ)</string>
+    <string name="duration">সময়কাল</string>
+    <string name="seconds">সেকেন্ড</string>
+    <string name="intention_repeater_finished">ইচ্ছা পুনরাবৃত্তিকারী সমাপ্ত</string>
+    <string name="finished">সমাপ্ত: %1$s</string>
+
+    <string name="multiplier">গুণক [%1$s]: 0</string>
+
+    <string name="multihasher_app">মাল্টিহ্যাশার অ্যাপ</string>
+    <string name="links">লিঙ্ক...</string>
+
+
+    <string name="keep_device_awake">ডিভাইস জাগ্রত রাখুন (৩ হার্জ, ৭.৮৩ হার্জ বা প্রতি ঘন্টায় একবার)</string>
+    <string name="once_per_hour">প্রতি ঘন্টায় একবার (অপ্টিমাল)</string>
+    <string name="record_voice_intention">ভয়েস ইচ্ছা রেকর্ড করুন</string>
+    <string name="record_voice_description">এটি আপনার কণ্ঠস্বর রেকর্ড করে (যার পেছনে আবেগ এবং শক্তি রয়েছে) এবং এটিকে ইচ্ছায় সন্নিবেশ করে। এটি পাঠ্যের চেয়ে আপনার ইচ্ছা পুনরাবৃত্তি করার একটি ভাল পদ্ধতি প্রদান করে। সর্বোচ্চ ৫ মিনিট রেকর্ড করে।</string>
+    <string name="recording">রেকর্ডিং চলছে...</string>
+    <string name="playing">প্লেয়িং চলছে...</string>
+    <string name="paused">বিরত</string>
+    <string name="tap_play_listen">শোনার জন্য প্লে চাপুন</string>
+    <string name="tap_mic_record">রেকর্ড করতে মাইক চাপুন</string>
+    <string name="record">রেকর্ড করুন</string>
+    <string name="stop">থামান</string>
+    <string name="play">প্লে করুন</string>
+    <string name="pause">বিরতি</string>
+    <string name="stop_playback">প্লেব্যাক থামান</string>
+    <string name="save">সংরক্ষণ করুন</string>
+    <string name="cancel">বাতিল</string>
+    <string name="mic_permission_required">অনুমতি প্রয়োজন</string>
+    <string name="mic_permission_description">এই অ্যাপ্লিকেশনটির আপনার কণ্ঠস্বর রেকর্ড করতে মাইক্রোফোন অ্যাক্সেস প্রয়োজন। অনুগ্রহ করে অ্যাপ সেটিংসে এটি সক্ষম করুন।</string>
+    <string name="open_settings">সেটিংস খুলুন</string>
+
+</resources>

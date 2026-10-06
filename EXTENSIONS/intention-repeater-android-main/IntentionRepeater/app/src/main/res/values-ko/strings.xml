@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">의도 반복기</string>
+    <string name="intention_repeater_header">의도 반복기</string>
+    <string name="by_anthro_teacher">Anthro Teacher 제공</string>
+    <string name="mult_0">반복 [%1$s]: 0</string>
+    <string name="_3_hz_classic">3 Hz (클래식)</string>
+    <string name="_7_83_hz_schumann_resonance_optimal">7.83 Hz 슈만 공명 (최적)</string>
+    <string name="str_maximum_frequency">최대 주파수</string>
+    <string name="power_boost_uses_sha512_encoding">전력 부스트 - Sha512 인코딩 사용</string>
+    <string name="keep_device_awake_3_hz_or_7_83_hz_only">장치를 깨움 상태로 유지 (3 Hz 또는 7.83 Hz만 해당)</string>
+    <string name="str_iterations">%1$s 반복 (%2$s)</string>
+    <string name="str_stop">정지</string>
+    <string name="str_start">시작</string>
+    <string name="str_load_file">파일 로드</string>
+    <string name="str_version">버전 %1$s</string>
+    <string name="intention_repeater_settings">의도 반복기 설정</string>
+    <string name="manage_notifications">알림 관리</string>
+    <string name="notifications_are">"알림은 "</string>
+    <string name="enabled">\u0020활성화됨\u0020</string>
+    <string name="disabled">\u0020비활성화됨\u0020</string>
+    <string name="notification_on_message">. 실행 중에는 알림이 경과 시간, 현재 주파수 및 반복 횟수로 매초마다 업데이트됩니다.</string>
+    <string name="notification_off_message">. 실행 중 알림으로 경과 시간, 현재 주파수 및 반복 횟수를 보려면 알림을 활성화할 수 있습니다.</string>
+    <string name="open_notes_for_intentions">의도를 위한 노트 열기</string>
+    <string name="website">웹사이트</string>
+    <string name="forum">포럼</string>
+    <string name="eula">이용 약관</string>
+    <string name="privacy">개인정보 보호</string>
+    <string name="back">뒤로</string>
+    <string name="prevents_device_from_sleeping_during_3_hz_or_7_83_hz_operations_increases_battery_usage">장치가 3 Hz 또는 7.83 Hz 작업 중에 절전 모드로 전환되지 않도록 합니다. 배터리 소모가 증가합니다.</string>
+    <string name="settings">설정</string>
+    <string name="reset">재설정</string>
+    <string name="loading_intention">의도 로딩 중...</string>
+    <string name="_0_iterations_0_hz">0 반복 (0 Hz)</string>
+    <string name="no_text_editor_found_please_install_one_from_the_play_store">텍스트 편집기를 찾을 수 없습니다. Play 스토어에서 하나를 설치하십시오.</string>
+    <string name="formatted_0_iterations">0 반복 (0 Hz)</string>
+    <string name="enter_intentions">의도를 입력하세요</string>
+    <string name="update_language">언어 업데이트</string>
+    <string name="Hz">헤르츠</string>
+    <string name="kHz">킬로헤르츠</string>
+    <string name="MHz">메가헤르츠</string>
+    <string name="GHz">기가헤르츠</string>
+    <string name="THz">테라헤르츠</string>
+    <string name="PHz">페타헤르츠</string>
+    <string name="EHz">엑사헤르츠</string>
+    <string name="Iterations">반복</string>
+    <string name="k">천</string> <!-- k for 천 -->
+    <string name="M">백만</string> <!-- M for 백만 -->
+    <string name="B">십억</string> <!-- B for 십억 -->
+    <string name="T">조</string> <!-- T for 조 -->
+    <string name="q">천조</string> <!-- q for 천조 -->
+    <string name="Q">백경</string> <!-- Q for 백경 -->
+    <string name="s">천해</string> <!-- s for 천해 -->
+    <string name="S">백양</string> <!-- S for 백양 -->
+
+    <string name="show_intentions_update">의도를 보여주기 위한 업데이트</string>
+
+    <string name="notifications_enabled">알림이 \u0020활성화됨\u0020. 실행 중에는 알림이 매초 경과 시간, 현재 주파수 및 반복 횟수로 업데이트됩니다.</string>
+    <string name="notifications_disabled">알림이 \u0020비활성화됨\u0020. 알림을 활성화하여 실행 중 경과 시간, 현재 주파수 및 반복 횟수를 알림으로 확인할 수 있습니다.</string>
+    <string name="three_herz_classic">3 Hz (클래식)</string>
+    <string name="schumann_resonance">7.83 Hz 슈만 공명</string>
+    <string name="prevents_device_sleeping">3 헤르츠 또는 7.83 헤르츠 작업 중 장치가 수면 상태에 들어가는 것을 방지합니다. 배터리 사용량이 증가합니다.</string>
+    <string name="iterations_zero_hz">0 반복 (0 헤르츠)</string>
+    <string name="duration">지속 시간</string>
+    <string name="seconds">초</string>
+    <string name="intention_repeater_finished">의도 반복기 완료</string>
+    <string name="finished">완료: %1$s</string>
+
+    <string name="multiplier">승수 [%1$s]: 0</string>
+
+    <string name="multihasher_app">멀티해셔 앱</string>
+    <string name="links">링크...</string>
+
+
+    <string name="keep_device_awake">기기를 깨운 상태로 유지 (3 Hz, 7.83 Hz 또는 한 시간에 한 번만)</string>
+    <string name="once_per_hour">한 시간에 한 번 (최적)</string>
+    <string name="record_voice_intention">목적 목소리 녹음</string>
+    <string name="record_voice_description">이는 당신의 목소리(감정과 에너지가 담긴)를 녹음하고 목적에 추가합니다. 텍스트보다 목적을 반복하는 더 나은 방법을 제공합니다. 최대 5분까지 녹음합니다.</string>
+    <string name="recording">녹음 중...</string>
+    <string name="playing">재생 중...</string>
+    <string name="paused">일시 정지됨</string>
+    <string name="tap_play_listen">듣기 위해 재생을 누르세요</string>
+    <string name="tap_mic_record">녹음하려면 마이크를 누르세요</string>
+    <string name="record">녹음</string>
+    <string name="stop">정지</string>
+    <string name="play">재생</string>
+    <string name="pause">일시정지</string>
+    <string name="stop_playback">재생 중지</string>
+    <string name="save">저장</string>
+    <string name="cancel">취소</string>
+    <string name="mic_permission_required">권한 필요</string>
+    <string name="mic_permission_description">이 앱은 목소리를 녹음하기 위해 마이크 접근 권한이 필요합니다. 앱 설정에서 활성화하세요.</string>
+    <string name="open_settings">설정 열기</string>
+
+</resources>

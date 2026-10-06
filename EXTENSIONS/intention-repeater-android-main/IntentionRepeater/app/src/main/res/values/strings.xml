@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">Intention Repeater</string>
+    <string name="intention_repeater_header">Intention Repeater</string>
+    <string name="by_anthro_teacher">by Anthro Teacher</string>
+    <string name="mult_0">Mult [%1$s]: 0</string>
+    <string name="_3_hz_classic">3 Hz (Classic)</string>
+    <string name="_7_83_hz_schumann_resonance_optimal">7.83 Hz Schumann Resonance (Optimal)</string>
+    <string name="str_maximum_frequency">Maximum Frequency</string>
+    <string name="power_boost_uses_sha512_encoding">Power Boost - Uses Sha512 Encoding</string>
+    <string name="keep_device_awake_3_hz_or_7_83_hz_only">Keep Device Awake (3 Hz or 7.83 Hz only)</string>
+    <string name="str_iterations">%1$s Iterations (%2$s)</string>
+    <string name="str_stop">STOP</string>
+    <string name="str_start">START</string>
+    <string name="str_load_file">LOAD FILE</string>
+    <string name="str_version">Version %1$s</string>
+    <string name="intention_repeater_settings">Intention Repeater Settings</string>
+    <string name="manage_notifications">Manage Notifications</string>
+    <string name="notifications_are">"Notifications are "</string>
+    <string name="enabled">\u0020ENABLED\u0020</string>
+    <string name="disabled">\u0020DISABLED\u0020</string>
+    <string name="notification_on_message">. When running, the notification will update each second with elapsed time, current frequency, and number of iterations.</string>
+    <string name="notification_off_message">. You can enable notifications to view elapsed time, current frequency, and number of iterations when running as a notification.</string>
+    <string name="open_notes_for_intentions">Open Notes for Intentions</string>
+    <string name="website">Website</string>
+    <string name="forum">Forum</string>
+    <string name="eula">EULA</string>
+    <string name="privacy">Privacy</string>
+    <string name="back">Back</string>
+    <string name="prevents_device_from_sleeping_during_3_hz_or_7_83_hz_operations_increases_battery_usage">Prevents device from sleeping during 3 Hz or 7.83 Hz operations. Increases battery usage.</string>
+    <string name="settings">Settings</string>
+    <string name="reset">RESET</string>
+    <string name="loading_intention">Loading Intention...</string>
+    <string name="_0_iterations_0_hz">0 Iterations (0 Hz)</string>
+    <string name="update_language">Update Language</string>
+    <string name="no_text_editor_found_please_install_one_from_the_play_store">No text editor found. Please install one from the Play Store.</string>
+    <string name="formatted_0_iterations">0 Iterations (0 Hz)</string>
+    <string name="enter_intentions">Enter Intentions</string>
+    <string name="Hz">Hz</string>
+    <string name="kHz">kHz</string>
+    <string name="MHz">MHz</string>
+    <string name="GHz">GHz</string>
+    <string name="THz">THz</string>
+    <string name="PHz">PHz</string>
+    <string name="EHz">EHz</string>
+    <string name="Iterations">Iterations</string>
+    <string name="k">k</string>
+    <string name="M">M</string>
+    <string name="B">B</string>
+    <string name="T">T</string>
+    <string name="q">q</string>
+    <string name="Q">Q</string>
+    <string name="s">s</string>
+    <string name="S">S</string>
+
+    <string name="show_intentions_update">To show intentions update</string>
+
+    <string name="notifications_enabled">Notifications are \u0020ENABLED\u0020. When running, the notification will update each second with elapsed time, current frequency, and number of iterations.</string>
+    <string name="notifications_disabled">Notifications are \u0020DISABLED\u0020. You can enable notifications to view elapsed time, current frequency, and number of iterations when running as a notification.</string>
+    <string name="three_herz_classic">3 Hz (Classic)</string>
+    <string name="schumann_resonance">7.83 Hz Schumann Resonance</string>
+    <string name="prevents_device_sleeping">Prevents device from sleeping during 3 Hz or 7.83 Hz operations. Increases battery usage.</string>
+    <string name="iterations_zero_hz">0 Iterations (0 Hz)</string>
+    <string name="duration">Duration</string>
+    <string name="seconds">Seconds</string>
+    <string name="intention_repeater_finished">Intention Repeater Finished</string>
+    <string name="finished">Finished: %1$s</string>
+
+    <string name="multiplier">Multiplier [%1$s]: 0</string>
+    <string name="multihasher_app">Multihasher App</string>
+    <string name="links">Links...</string>
+
+
+    <string name="keep_device_awake">Keep Device Awake (3 Hz, 7.83 Hz or once per hour only)</string>
+    <string name="once_per_hour">Once per Hour (Optimal)</string>
+    <string name="record_voice_intention">Record Voice Intention</string>
+    <string name="record_voice_description">This records your voice (which has emotion and energy behind it) and inserts it into the Intention. It provides a better method of repeating your intention than text. Records up to 5 minutes.</string>
+    <string name="recording">Recording...</string>
+    <string name="playing">Playing...</string>
+    <string name="paused">Paused</string>
+    <string name="tap_play_listen">Tap Play to listen</string>
+    <string name="tap_mic_record">Tap Mic to record</string>
+    <string name="record">Record</string>
+    <string name="stop">Stop</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="stop_playback">Stop Playback</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="mic_permission_required">Permission Required</string>
+    <string name="mic_permission_description">This app needs microphone access to record your voice. Please enable it in app settings.</string>
+    <string name="open_settings">Open Settings</string>
+</resources>

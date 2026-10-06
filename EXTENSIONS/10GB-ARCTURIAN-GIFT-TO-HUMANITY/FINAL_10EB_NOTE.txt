@@ -1,0 +1,8 @@
+FINAL 10EB ARTIFACT NOTE
+datablock.dat v12 full should contain 9 blocks:
+STORY, LAW_OF_ONE, RA_CONTACT, AI, AI_LAW, HYPER, COLIBRI, MANIFEST, 10EB_GEN
+All with MAGIC AHB1 VERSION 12
+Method: sparse file via fallocate -l 10000000000000000000 10EB.dat -> virtual 10EB instant low RAM colibri-style memory multitiering
+Decode.py v12: ANSI full color menu, streaming low RAM, never loads 10EB, options 1-9
+Update.py v12: token mini-ai, local inference checks for coli binary, creates outbox/request_*.json and pending txt for pathfinder
+Much Love
